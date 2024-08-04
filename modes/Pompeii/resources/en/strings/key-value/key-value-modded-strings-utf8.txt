@@ -1,0 +1,195 @@
+120150 "Chariot and Priest civilization\n\n• Farms cost -20%\n• Gold Miners work 20% faster and carry +2 gold\n• Chariot units +33% hit points\n• Priests +3 range\n\n<b>Team Bonus:<b> \nPriests +1P Armor"
+
+326170 "Train <b>Bowman<b> (<cost>, Time: 30s)\nRanged unit. Strong vs. units at long range. Weak vs. Slingers and units at close range.<i> Upgrades: armor (Storage Pit); range (Market), attack, accuracy (Government Center).<i>\nArmor Class: Archer\nAttack Bonus: +2 vs Infantry\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1 Reload Time: 1.4"
+326171 "Train <b>Improved Bowman<b> (<cost>, Time: 30s)\nRanged unit. Strong vs. units at long range. Weak vs. Slingers and units at close range.<i> Upgrades: armor (Storage Pit); range (Market), attack, accuracy (Government Center); to Composite Bowman 180F, 100W (Range).<i>\nArmor Class: Archer\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1 Reload Time: 1.4"
+326172 "Train <b>Composite Bowman<b> (<cost>, Time: 30s)\nRanged unit. Strong vs. units at long range. Weak vs. Slingers and units at close range.<i> Upgrades: armor (Storage Pit); range (Market), attack, accuracy (Government Center).<i>\nArmor Class: Archer\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1 Reload Time: 1.4"
+28048 "Research <b>Improved Bow<b> (<cost>, Time: 45s)\nLets you train Improved Bowmen."
+28049 "Upgrade to <b>Composite Bow<b> (<cost>, Time: 1m:40s)\nImproved Bowmen +1 attack, +1 range."
+
+326180 "Train <b>Chariot Archer<b> (<cost>, Time: 40s)\nMounted archer. Resistant to conversion. Strong vs. slow units at long range. Weak vs. Slingers and units at close range.<i> Upgrades: range (Market), armor (Storage Pit); attack, hitpoints, accuracy (Government Center); to Heavy Cavalry 350F, 125G (Stable).<i>\nArmor Class: Archer(-2), Cavalry\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1.66 Reload Time: 1.5"
+326181 "Train <b>Elephant Archer<b> (<cost>, Time: 50s)\nSlow and heavy mounted archer. Weak vs. Priests.<i> Upgrades: range (Market), armor (Storage Pit); attack, accuracy (Government Center).<i>\nArmor Class: Archer, Cavalry\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 0.75 Reload Time: 1.5"
+
+326178 "Train <b>Horse Archer<b> (<cost>, Time: 40s)\nFast mounted archer. Strong vs. slow units at long range. Weak vs. units at close range.<i> Upgrades: range (Market), armor (Storage Pit); attack, hitpoints, accuracy (Government Center); to Heavy Horse Archer 1750F, 800G (Archery Range).<i>\nArmor Class: Archer, Cavalry\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1.91 Reload Time: 1.5"
+326339 "Train <b>Heavy Horse Archer<b> (<cost>, Time: 40s)\nVery fast mounted archer. Strong vs. slow units at long range. Weak vs. units at close range.<i> Upgrades: range (Market), armor (Storage Pit); attack, hitpoints, accuracy (Government Center).<i>\nArmor Class: Archer, Cavalry\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 2.08 Reload Time: 1.5"
+28083 "Upgrade to <b>Heavy Horse Archer<b> (<cost>, Time: 2m:30s)\nHorse Archers +30 HP, +1 attack and move 9% faster."
+
+
+326183 "Train <b>Clubman<b> (<cost>, Time: 26s)\nPrimitive infantry unit. Weak vs. archers.<i> Upgrades: attack, armor, pierce armor (Storage Pit); population space (Government Center); to Axeman 100F (Barracks).<i>\nArmor Class: Infantry\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1 Reload Time: 1.5"
+326184 "Train <b>Axeman<b> (<cost>, Time: 26s)\nLight infantry unit. Weak vs. archers.<i> Upgrades: attack, armor, pierce armor (Storage Pit); population space (Government Center).<i>\nArmor Class: Infantry\nAttack Bonus: +4 vs Cavalry\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1 Reload Time: 1.5"
+326350 "Train <b>Slinger<b> (<cost>, Time: 35s)\nRanged anti-archer unit. Strong vs. archers, towers and walls. Weak vs. other units.<i> Upgrades: attack, range (Market); pierce armor (Storage Pit), attack, accuracy, population space (Government Center).<i>\nAttack Bonus: +3 vs Archers, Walls & Towers\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1 Reload Time: 1.5"
+28054 "Upgrade to <b>Battle Axe<b> (<cost>, Time: 40s)\nClubmen +10 HP, +2 attack, +4 vs Cavalry."
+
+326185 "Train <b>Short Swordsman<b> (<cost>, Time: 26s)\nAll-purpose infantry unit. Weak vs. Cavalry.<i> Upgrades: attack, armor, pierce armor (Storage Pit); population space (Government Center); to Broad Swordsman 140F, 50G (Barracks).<i>\nArmor Class: Infantry\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1 Reload Time: 1.5"
+326186 "Train <b>Broad Swordsman<b> (<cost>, Time: 26s)\nAll-purpose infantry unit. Weak vs. Cavalry.<i> Upgrades: attack, armor, pierce armor (Storage Pit); population space (Government Center); to Long Swordsman 240F, 100G (Barracks).<i>\nArmor Class: Infantry\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1 Reload Time: 1.5"
+326187 "Train <b>Long Swordsman<b> (<cost>, Time: 26s)\nAll-purpose infantry unit. Weak vs. Cavalry.<i> Upgrades: attack, armor, pierce armor (Storage Pit); population space (Government Center); to Legionary 1400F, 600G (Barracks).<i>\nArmor Class: Infantry\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1 Reload Time: 1.5"
+326340 "Train <b>Legionary<b> (<cost>, Time: 26s)\nAll-purpose infantry unit. Weak vs. Cavalry.<i> Upgrades: attack, armor, pierce armor (Storage Pit); population space (Government Center).<i>\nArmor Class: Infantry\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1 Reload Time: 1.5"
+
+28067 "Upgrade to <b>Broad Sword<b> (<cost>, Time: 1m:30s)\nSwordsmen +20 HP, +2 attack."
+28057 "Upgrade to <b>Long Sword<b> (<cost>, Time: 1m:30s)\nSwordsmen +20 HP, +1 melee armor, +2 attack."
+28084 "Upgrade to <b>Legionary<b> (<cost>, Time: 2m:30s)\nSwordsmen +40 HP, +2 attack."
+
+
+326190 "Train <b>Scout<b> (<cost>, Time: 30s)\nFast and light horseman with extensive line of sight. Excellent for scouting. Weak vs. Camel Riders.<i> Upgrades: attack, armor (Storage Pit); hitpoints (Government Center).<i>\nArmor Class: Cavalry\nAttack Bonus: +3 vs Archers\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1.66 Reload Time: 1.5"
+326351 "Train <b>Camel Rider<b> (<cost>, Time: 30s)\nFast anti-cavalry unit. Strong vs. mounted units.<i> Upgrades: attack, armor (Storage Pit); hitpoints (Government Center).<i>\nAttack Bonus: +8 vs Cavalry\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1.66 Reload Time: 1.5"
+
+326176 "Train <b>Cavalry<b> (<cost>, Time: 40s)\nFast mounted unit with bonus damage against infantry. Strong vs. infantry and archers. Weak vs. Camel Riders.<i> Upgrades: attack, armor (Storage Pit); hitpoints (Government Center); to Heavy Cavalry 350F, 125G (Stable).<i>\nArmor Class: Cavalry\nAttack Bonus: +5 vs Infantry\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1.66 Reload Time: 1.5"
+326177 "Train <b>Heavy Cavalry<b> (<cost>, Time: 40s)\nFast and heavily armored mounted unit with bonus damage against infantry. Strong vs. infantry and archers. Weak vs. Camel Riders.<i> Upgrades: attack, armor (Storage Pit); hitpoints (Government Center); to Cataphract 1600F, 600G (Stable).<i>\nArmor Class: Cavalry\nAttack Bonus: +6 vs Infantry\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1.66 Reload Time: 1.5"
+326341 "Train <b>Cataphract<b> (<cost>, Time: 40s)\nFast and heavily armored mounted unit with bonus damage against infantry. Strong vs. infantry and archers. Weak vs. Camel Riders.<i> Upgrades: attack, armor (Storage Pit); hitpoints (Government Center); to Heavy Cavalry 350F, 125G (Stable).<i>\nArmor Class: Cavalry\nAttack Bonus: +7 vs Infantry\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1.66 Reload Time: 1.5"
+28061 "Upgrade to <b>Heavy Cavalry<b> (<cost>, Time: 1m:30s)\nUpgrades Cavalry to Heavy Cavalry, which have +2/+1 armor, +2 attack, +1 vs Infantry."
+28085 "Upgrade to <b>Cataphract<b> (<cost>, Time: 2m:30s)\nUpgrade Heavy Cavalry to Cataphracts, which have +90 HP, +3/+1 armor, +2 attack, +1 vs Infantry."
+
+326179 "Train <b>Chariot<b> (<cost>, Time: 40s)\nFast mounted unit, resistant to conversion. Weak vs. Camel Riders.<i> Upgrades: attack, armor (Storage Pit); hitpoints (Government Center); to Scythe Chariot 1400F, 1000G (Stable).<i>\nArmor Class: Cavalry(+4)\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1.66 Reload Time: 1.5"
+326353 "Train <b>Scythe Chariot<b> (<cost>, Time: 40s)\nFast mounted unit, resistant to conversion. Inflicts trample damage to all nearby units when attacking. Weak vs. Camel Riders. Blast Radius: 0.75<i> Upgrades: attack, armor (Storage Pit); hitpoints (Government Center).<i>\nArmor Class: Cavalry(+4)\n<hp> <attack> <armor> <piercearmor> • M. Speed: 1.66 Reload Time: 1.5"
+28091 "Upgrade to <b>Scythe Chariot<b> (<cost>, Time: 3m:20s)\nUpgrades Chariots to Scythe Chariots, which have +20 HP, +1 melee armor, +2 attack and gain trample damage."
+
+326182 "Train <b>War Elephant<b> (<cost>, Time: 50s)\nSlow and powerful mounted unit. Inflicts trample damage to all nearby units when attacking. Strong vs. buildings and units at close range. Weak vs. Priests.<i> Upgrades: armor (Storage Pit); to Armored Elephant 1000F, 1200G (Stable).<i>\nArmor Class: Cavalry(+4)\nAttack Bonus: +25 vs Buildings, extra +25 vs Towers\n<hp> <attack> <armor> <piercearmor> • M. Speed: 0.75 Reload Time: 1.5"
+326354 "Train <b>Armored Elephant<b> (<cost>, Time: 50s)\nSlow and powerful mounted unit. Inflicts trample damage to all nearby units when attacking. Strong vs. buildings and units at close range. Weak vs. Priests.<i> Upgrades: armor (Storage Pit).<i>\nArmor Class: Cavalry(+4)\nAttack Bonus: +35 vs Buildings, extra +35 vs Towers\n<hp> <attack> <armor> <piercearmor> • M. Speed: 0.75 Reload Time: 1.5"
+28092 "Upgrade to <b>Armored Elephant<b> (<cost>, Time: 2m:30s)\nWar Elephants +2/+1 armor, +3 attack, +10 vs Buildings, extra +10 vs Towers."
+
+
+326188 "Train <b>Hoplite<b> (<cost>, Time: 36s)\nSlow and powerful elite infantry unit. Strong vs. melee units.<i> Upgrades: attack, armor, pierce armor (Storage Pit); speed (Government Center); to Phalangite 300F, 100G (Academy).<i>\n<hp> <attack> <armor> <piercearmor> • M. Speed: 0.87 Reload Time: 1.5"
+326189 "Train <b>Phalangite<b> (<cost>, Time: 36s)\nSlow and powerful elite infantry unit. Strong vs. melee units.<i> Upgrades: attack, armor, pierce armor (Storage Pit); speed (Government Center); to Centurion 1800F, 700G (Academy).<i>\n<hp> <attack> <armor> <piercearmor> • M. Speed: 0.87 Reload Time: 1.5"
+326342 "Train <b>Centurion<b> (<cost>, Time: 36s)\nSlow and powerful elite infantry unit. Strong vs. melee units.<i> Upgrades: attack, armor, pierce armor (Storage Pit); speed (Government Center).<i>\n<hp> <attack> <armor> <piercearmor> • M. Speed: 0.87 Reload Time: 1.5"
+
+28062 "Upgrade to <b>Phalangite<b> (<cost>, Time: 1m:30s)\nHoplites +2 melee armor, +3 attack."
+28086 "Upgrade to <b>Centurion<b> (<cost>, Time: 2m:30s)\nPhalangites +40 HP, +10 attack, +1 melee armor."
+
+326174 "Build <b>Stone Thrower<b> (<cost>, Time: 60s)\nRanged siege weapon with area of effect attack. Cannot attack enemies at close range. Strong vs. buildings and tight groups of units. Weak vs. fast units. Can attack ground. Blast Radius: 0.8<i> Upgrades: attack, range, accuracy (Government Center); to Catapult 300F, 250W (Siege Workshop).<i>\nAttack Bonus: +140 vs Buildings\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 0.66 Reload Time: 5.375"
+326175 "Build <b>Catapult<b> (<cost>, Time: 60s)\nRanged siege weapon with area of effect attack. Cannot attack enemies at close range. Strong vs. buildings and tight groups of units. Weak vs. fast units. Can attack ground. Blast Radius: 1.25<i> Upgrades: attack, range, accuracy (Government Center); to Heavy Catapult 1800F, 900W (Siege Workshop).<i>\nAttack Bonus: +140 vs Buildings\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 0.66 Reload Time: 5.375"
+326338 "Build <b>Heavy Catapult<b> (<cost>, Time: 60s)\nRanged siege weapon with area of effect attack. Cannot attack enemies at close range. Strong vs. buildings and tight groups of units. Weak vs. fast units. Can attack ground and destroy trees. Blast Radius: 1.5<i> Upgrades: attack, range, accuracy (Government Center).<i>\nAttack Bonus: +140 vs Buildings\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 0.66 Reload Time: 5.375"
+28047 "Upgrade to <b>Catapult<b> (<cost>, Time: 1m:40s)\nStone Throwers +10 attack, +2 range, +0.45 blast radius, +0/+1 armor,"
+28082 "Upgrade to <b>Heavy Catapult<b> (<cost>, Time: 2m:30s)\nCatapults +1 range, +0.25 blast radius, +75 HP, +0/+1 armor."
+
+326173 "Build <b>Ballista<b> (<cost>, Time: 50s)\nAnti-unit siege weapon. Cannot attack enemies at close range. Strong vs. slow units, also good against buildings. Weak vs. fast units and siege weapons.<i> Upgrades: attack, range, accuracy (Government Center); to Helepolis 1500F, 1000W (Siege Workshop).<i>\nAttack Bonus: +5 vs Fire Galley\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 0.66 Reload Time: 2.7"
+326337 "Build <b>Helepolis<b> (<cost>, Time: 50s)\nAnti-unit siege weapon. Cannot attack enemies at close range. Strong vs. slow units, also good against buildings. Weak vs. cavalry and siege weapons.<i> Upgrades: attack, range, accuracy (Government Center).<i>\nAttack Bonus: +5 vs Fire Galley\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 0.66 Reload Time: 1.85"
+28081 "Upgrade to <b>Helepolis<b> (<cost>, Time: 2m:30s)\nBallistas +5 attack, +1 range and attack 45% faster."
+
+
+326131 "Create <b>Villager<b> (<cost>, Time: 20s)\nGathers resources. Builds and repairs buildings. Also repairs ships.<i> Upgrades: resource gathering, speed (Market); build speed (Government Center); hitpoints, attack, speed (Temple).<i>\n<hp> <attack> <armor> <piercearmor> • M. Speed: 0.92 Reload Time: 1.5"
+326153 "Train <b>Priest<b> (<cost>, Time: 50s)\nConverts enemy units to your civilization. Heals friendly units (except ships). Strong vs. slow and non-ranged units. Weak vs. chariots and ranged units. <i> Upgrades: at Monastery.<i>\n<hp> <armor> <piercearmor> <range> • M. Speed: 0.8"
+326470 "Build <b>Trade Cart<b> (<cost>, Time. 51s)\nTrade unit used for generating gold at another player's Market. To trade, click the Trade Cart then right-click another player's Market. Will return with gold to your Market.\n<hp> <armor> <piercearmor> • M. Speed: 1.45"
+
+326009 "Build <b>Fishing Boat<b> (<cost>, Time: 40s)\nGathers food from fish.<i> Upgrades: to Fishing Ship 50F, 100W (Dock).<i>\n<hp> <armor> <piercearmor> • M. Speed: 1.4"
+326010 "Build <b>Fishing Ship<b> (<cost>, Time: 40s)\nGathers food from fish.\n<hp> <armor> <piercearmor> • M. Speed: 2"
+326011 "Build <b>Trade Boat<b> (<cost>, Time: 50s)\nTrade unit used for generating gold at another player's Dock. To trade, click the Trade Boat then right-click another player's Dock. Will return with gold to your Dock.<i> Upgrades: to Merchant Ship 200F, 75W (Dock).<i>\n<hp> <armor> <piercearmor> • M. Speed: 2"
+326012 "Build <b>Merchant Ship<b> (<cost>, Time: 50s)\nTrade unit used for generating gold at another player's Dock. To trade, click the Merchant Ship then right-click another player's Dock. Will return with gold to your Dock.\n<hp> <armor> <piercearmor> • M. Speed: 2.5"
+326013 "Build <b>Light Transport<b> (<cost>, Time: 1m:15s)\nUsed to move units across water. Select the units you want to transport, then right-click on the Light Transport to board them. Use the Unload button to unload units on the shore.<i> Upgrades: to Heavy Transport 150F, 125W (Dock).<i>\n<hp> <armor> <piercearmor> <garrison> • M. Speed: 1.4"
+326014 "Build <b>Heavy Transport<b> (<cost>, Time: 1m:15s)\nUsed to move units across water. Select the units you want to transport, then right-click on the Heavy Transport to board them. Use the Unload button to unload units on the shore.\n<hp> <armor> <piercearmor> <garrison> • M. Speed: 1.75"
+28004 "Upgrade to <b>Fishing Ship<b> (<cost>, Time: 51s)\nFishing Boats carry +5 food, move 42% faster, gain +30 HP."
+28006 "Upgrade to <b>Merchant Ship<b> (<cost>, Time: 1m:42s)\nMerchant ships move 25% faster, gain +80 HP."
+28008 "Upgrade to <b>Heavy Transport<b> (<cost>, Time: 3m)\nTransports carry +5 units, move 25% faster, gain +50 HP, +1 LoS."
+
+326015 "Build <b>Scout Ship<b> (<cost>, Time: 1m:10s)\nPrimitive warship with ranged attack. Weak vs. Fire Galleys.<i> Upgrades: range (Market); attack, accuracy (Government Center); to War Galley 150F, 75W (Dock).<i>\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1.75 Reload Time: 1.5"
+326016 "Build <b>War Galley<b> (<cost>, Time: 1m:10s)\nAll-purpose warship with ranged attack. Weak vs. Fire Galleys.<i> Upgrades: range (Market); attack, accuracy (Government Center); to Trireme 250F, 100W (Dock).<i>\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1.75 Reload Time: 1.7"
+326017 "Build <b>Trireme<b> (<cost>, Time: 1m:10s)\nAll-purpose warship with ranged attack. Weak vs. Fire Galleys.<i> Upgrades: range (Market); attack, accuracy (Government Center).<i>\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1.75 Reload Time: 1.89"
+28005 "Upgrade to <b>War Galley<b> (<cost>, Time: 2m:8s)\nScout Ships +40 HP, +3 attack, +1 range but attack 12% slower."
+28007 "Upgrade to <b>Trireme<b> (<cost>, Time: 3m:20s)\nWar Galleys +40 HP, +4 attack, +1 range but attack 10% slower."
+
+326352 "Build <b>Fire Galley<b> (<cost>, Time: 60s)\nWarship that spews fire at close range. Strong vs. other ships.<i> Upgrades: attack (Govenment Center).<i>\nArmor Class: Building(+130), Fire Galley\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 2 Reload Time: 1"
+326018 "Build <b>Catapult Trireme<b> (<cost>, Time: 1m:30s)\nAnti-building siege warship with long range. Strong vs. buildings.<i> Upgrades: attack, accuracy, range (Government Center); to Juggernaut 1300F, 700W (Dock).<i>\nAttack Bonus: +140 vs Buildings\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1.45 Reload Time: 5.3"
+326336 "Build <b>Juggernaut<b> (<cost>, Time: 1m:30s)\nAnti-building siege warship with long range. Strong vs. buildings.<i> Upgrades: attack, accuracy, range (Government Center).<i>\nAttack Bonus: +140 vs Buildings\n<hp> <attack> <armor> <piercearmor> <range> • M. Speed: 1.45 Reload Time: 5.3"
+28009 "Research <b>Catapult Trireme<b> (<cost>, Time: 1m:40s)\nLets you build Catapult Triremes."
+28080 "Upgrade to <b>Juggernaut<b> (<cost>, Time: 3m:20s)\nCatapult Triremes +65 HP, +1 range."
+
+
+326255 "Build <b>Town Center<b> (<cost>, Time: 60s)\nUsed to train Villagers, deposit resources and advance to the next Age. Provides 4 population. Cannot be converted by enemy Priests.<i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor> <garrison>"
+326119 "Build <b>House<b> (<cost>, Time: 25s)\nProvides 4 population each. Your current/supportable population is shown at the top of the screen.<i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor>"
+326193 "Build <b>Storage Pit<b> (<cost>, Time: 30s)\nUsed to deposit wood, gold, stone and food from hunting and fishing. Also used to research technologies to improve armor and attack of units. Build near resources to gather faster. <i>Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor>"
+326106 "Build <b>Granary<b> (<cost>, Time: 30s)\nUsed to deposit food from farming and foraging. Also used to research and upgrade towers and walls. Build near berry bushes or farms to gather food faster. <b><i> Required for Market.<b><i> <i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor>"
+326132 "Build <b>Market<b> (<cost>, Time: 40s)\nUsed to buy and sell resources, trade with other players by land, and research technologies. Required to send resources to other players.<b><i> Required for Government Center, Temple.<b> <i>Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor> <garrison>"
+326088 "Build <b>Farm<b> (<cost>, Time: 24s)\nRenewable food source. Provides a limited amount of food before it goes fallow and must be rebuilt. Only one Villager may work a Farm at a time. You can farm abandoned enemy Farms. Cannot be converted by enemy Priests.<i> Upgrades: food (Market); hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor>"
+326083 "Build <b>Dock<b> (<cost>, Time: 50s)\nUsed to build and upgrade ships, deposit food from Fishing Ships, and trade with other players by sea.<i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor> <garrison>"
+326105 "Build <b>Government Center<b> (<cost>, Time: 60s)\nUsed to research technologies to improve units and buildings.<b><i> Required for additional Town Centers.<b><i><i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor>"
+326195 "Build <b>Temple<b> (<cost>, Time: 60s)\nUsed to train and upgrade Priests. Cannot be converted by enemy Priests.<i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor> <garrison>"
+326334 "Build <b>Wonder<b> (<cost>, Time: 58m:20s)\nA Wonder of the World that demonstrates the superiority of your civilization. Constructing a Wonder that stands for a certain period of time is one way to win the game. Cannot be converted by enemy Priests.<i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor>"
+
+326008 "Build <b>Barracks<b> (<cost>, Time: 30s)\nUsed to train and upgrade infantry units.<b><i> Required for Archery Range, Stable.<b><i> <i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor> <garrison>"
+326154 "Build <b>Archery Range<b> (<cost>, Time: 40s)\nUsed to train and upgrade archer units. Required for Siege Workshop.<i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor> <garrison>"
+326192 "Build <b>Stable<b> (<cost>, Time: 40s)\nUsed to train and upgrade cavalry units. Required for Academy.<i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor> <garrison>"
+326001 "Build <b>Academy<b> (<cost>, Time: 60s)\nUsed to train and upgrade elite infantry units. Requires Stable. <i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor> <garrison>"
+326162 "Build <b>Siege Workshop<b> (<cost>, Time: 60s)\nUsed to build and upgrade siege weapons. Requires Archery Range.<i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building\n<hp> <armor> <piercearmor> <garrison>"
+
+326327 "Build <b>Small Gate<b> (<cost>, Time: 35s)\nCan be built into existing walls to allow movement of friendly units. Can be locked and unlocked. Cannot be converted by enemy Priests.<i> Upgrades: hit points, construction speed (Government Center), to Medium Wall 180F, 100S (Granary).<i>\nArmor Class: Building, Wall & Tower, Wall\n<hp> <armor> <piercearmor>"
+326328 "Build <b>Medium Gate<b> (<cost>, Time: 35s)\nCan be built into existing walls to allow movement of friendly units. Can be locked and unlocked. Cannot be converted by enemy Priests.<i> Upgrades: hit points, construction speed (Government Center), to Fortified Wall 300F, 175S (Granary).<i>\nArmor Class: Building, Wall & Tower, Wall\n<hp> <armor> <piercearmor>"
+326329 "Build <b>Fortified Gate<b> (<cost>, Time: 35s)\nCan be built into existing walls to allow movement of friendly units. Can be locked and unlocked. Cannot be converted by enemy Priests.<i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building, Wall & Tower, Wall\n<hp> <armor> <piercearmor>"
+
+326299 "Build <b>Small Wall<b> (<cost>, Time: 7s)\nStone wall that is difficult to breach without siege weapons. Slows down your enemies and warns you of their approach. Cannot be converted by enemy Priests.<i> Upgrades: hit points, construction speed (Government Center), to Medium Wall 180F, 100S (Granary).<i>\nArmor Class: Building, Wall, Wall & Tower\n<hp> <armor> <piercearmor>"
+326298 "Build <b>Medium Wall<b> (<cost>, Time: 7s)\nStone wall that is difficult to breach without siege weapons. Slows down your enemies and warns you of their approach. Cannot be converted by enemy Priests.<i> Upgrades: hit points, construction speed (Government Center), to Fortified Wall 300F, 11m:15s (Granary).<i>\nArmor Class: Building, Wall, Wall & Tower\n<hp> <armor> <piercearmor>"
+326297 "Build <b>Fortified Wall<b> (<cost>, Time: 7s)\nStone wall that is difficult to breach without siege weapons. Slows down your enemies and warns you of their approach. Cannot be converted by enemy Priests.<i> Upgrades: hit points, construction speed (Government Center).<i>\nArmor Class: Building, Wall, Wall & Tower\n<hp> <armor> <piercearmor>"
+28010 "Research <b>Small Wall<b> (<cost>, Time: 10s)\nLets you build Small Walls."
+28012 "Upgrade to <b>Medium Wall<b> (<cost>, Time: 60s)\nWalls +100 HP, +1 pierce armor. Gates +150 HP, +1 pierce armor."
+28013 "Upgrade to <b>Fortified Wall<b> (<cost>, Time: 1m:15s)\nWalls +100 HP, +1 pierce armor. Gates +150 HP, +1 pierce armor."
+
+326300 "Build <b>Watch Tower<b> (<cost>, Time: 65s)\nTower with a ranged attack. Weak vs. siege units and Slingers.<i> Upgrades: hit points, attack, accuracy, construction speed (Government Center); range (Market); to Sentry Tower 120F, 50S (Granary).<i>\nArmor Class: Wall & Tower, Building(+90), Tower\n<hp> <attack> <armor> <piercearmor> <range> <garrison> • Reload Time: 1.5"
+326160 "Build <b>Sentry Tower<b> (<cost>, Time: 65s)\nTower with a ranged attack. Weak vs. siege units and Slingers.<i> Upgrades: hit points, attack, accuracy, construction speed (Government Center); range (Market); to Guard Tower 300F, 100S (Granary).<i>\nArmor Class: Wall & Tower, Building(+90), Tower\n<hp> <attack> <armor> <piercearmor> <range> <garrison> • Reload Time: 1.5"
+326117 "Build <b>Guard Tower<b> (<cost>, Time: 65s)\nTower with a ranged attack. Weak vs. siege units.<i> Upgrades: hit points, attack, accuracy, construction speed (Government Center); range (Market); to Ballista Tower 1800F, 750S (Granary).<i>\nArmor Class: Wall & Tower, Building(+90), Tower\n<hp> <attack> <armor> <piercearmor> <range> <garrison> • Reload Time: 1.5"
+326335 "Build <b>Ballista Tower<b> (<cost>, Time: 65s)\nTower with a ranged attack. Weak vs. siege units.<i> Upgrades: hit points, attack, accuracy, construction speed (Government Center); range (Market).<i>\nArmor Class: Wall & Tower, Building(+90), Tower\n<hp> <attack> <armor> <piercearmor> <range> <garrison> • Reload Time: 3.1"
+28015 "Research <b>Watch Tower<b> (<cost>, Time: 10s)\nLets you build Watch Towers."
+28011 "Upgrade to <b>Sentry Tower<b> (<cost>, Time: 30s)\nTowers +1 attack, +1 range, +60 HP, +1 pierce armor."
+28014 "Upgrade to <b>Guard Tower<b> (<cost>, Time: 1m:15s)\nTowers +2 attack, +1 range, +55 HP, +1 pierce armor."
+28079 "Upgrade to <b>Ballista Tower<b> (<cost>, Time: 2m:30s)\nTowers +10 attack and damage units in a line but attack 2x slower."
+
+
+28016 "Research <b>Astrology<b> (<cost>, Time: 50s)\nConversion and healing 30% more effective"
+28017 "Research <b>Polytheism<b> (<cost>, Time: 50s)\nPriest moves 40% faster"
+28018 "Research <b>Monotheism<b> (<cost>, Time: 1m:15s)\nConvert enemy Priests and buildings"
+28019 "Research <b>Mysticism<b> (<cost>, Time: 50s)\nPriest +20 HP"
+28020 "Research <b>Afterlife<b> (<cost>, Time: 1m:15s)\n+3 conversion range"
+28022 "Research <b>Fanaticism<b> (<cost>, Time: 60s)\nPriest restore faith 50% faster"
+28094 "Research <b>Medicine<b> (<cost>, Time: 50s)\nIncreases Priest healing rate"
+28095 "Research <b>Theocracy<b> (<cost>, Time: 1m:40s)\nOnly one Priest in group must rest after a conversion"
+28021 "Research <b>Zealotry<b> (<cost>, Time: 60s)\nVillagers move faster, are much stronger in combat, but carry less resources"
+
+28023 "Research <b>Ballistics<b> (<cost>, Time: 60s)\nTowers and ranged units have increased accuracy vs. moving targets; required for Ballista Tower"
+28030 "Research <b>Nobility<b> (<cost>, Time: 1m:10s)\nHorse units and camels +15% hit points"
+28031 "Research <b>Engineering<b> (<cost>, Time: 1m:10s)\nSiege weapons/siege ships +2 range"
+28033 "Research <b>Alchemy<b> (<cost>, Time: 1m:40s)\nRanged units and Fire Galleys +1 damage"
+28073 "Research <b>Architecture<b> (<cost>, Time: 50s)\n-33% build time; +20% building/wall hit points"
+28074 "Research <b>Aristocracy<b> (<cost>, Time: 60s)\nAcademy units move 25% faster"
+28075 "Research <b>Writing<b> (<cost>, Time: 30s)\nShared exploration with allies"
+28090 "Research <b>Logistics<b> (<cost>, Time: 60s)\nBarracks units take 1/2 population"
+28097 "Research <b>City Watch<b> (<cost>, Time: 15s)\nIncreases the line of sight of all buildings by 3 so they see enemies from a longer distance."
+28098 "Research <b>Conscription<b> (<cost>, Time: 60s)\nLand military units trained 25% faster"
+28099 "Research <b>Urbanization<b> (<cost>, Time: 45s)\nHouses provide double population space"
+
+
+28035 "Research <b>Leather Armor for Infantry<b> (<cost>, Time: 30s)\nInfantry +2 melee armor"
+28038 "Research <b>Scale Armor for Infantry<b> (<cost>, Time: 60s)\nInfantry +2 melee armor"
+28042 "Research <b>Chain Mail Armor for Infantry<b> (<cost>, Time: 1m:15s)\nInfantry +2 melee armor"
+
+28036 "Research <b>Leather Armor for Archers<b> (<cost>, Time: 30s)\nArchers +2 melee armor"
+28039 "Research <b>Scale Armor for Archers<b> (<cost>, Time: 60s)\nArchers +2 melee armor"
+28043 "Research <b>Chain Mail Armor for Archers<b> (<cost>, Time: 1m:15s)\nArchers +2 melee armor"
+
+28037 "Research <b>Leather Armor for Cavalry<b> (<cost>, Time: 30s)\nMelee mounted units +2 melee armor"
+28040 "Research <b>Scale Armor for Cavalry<b> (<cost>, Time: 60s)\nMelee mounted units +2 melee armor"
+28044 "Research <b>Chain Mail Armor for Cavalry<b> (<cost>, Time: 1m:15s)\nMelee mounted units +2 melee armor"
+
+28041 "Research <b>Toolworking<b> (<cost>, Time: 40s)\nMelee units +2 attack"
+28045 "Research <b>Metalworking<b> (<cost>, Time: 1m:15s)\nMelee units +2 attack"
+28046 "Research <b>Metallurgy<b> (<cost>, Time: 1m:40s)\nMelee units +3 attack"
+
+28056 "Research <b>Bronze Shield<b> (<cost>, Time: 50s)\nInfantry +1 pierce armor"
+//28077 "Research <b>Bronze Shield<b> (<cost>, Time: 50s)\nInfantry +1 pierce armor"
+28078 "Research <b>Iron Shield<b> (<cost>, Time: 1m:15s)\nInfantry +1 pierce armor"
+28096 "Research <b>Tower Shield<b> (<cost>, Time: 1m:40s)\nInfantry +1 pierce armor"
+
+
+28068 "Research <b>Woodworking<b> (<cost>, Time: 60s)\nWoodcutters work 20% faster and carry +2 wood; +1 missile weapon range"
+28029 "Research <b>Artisanship<b> (<cost>, Time: 1m:20s)\nWoodcutters work 20% faster and carry +2 wood; +1 missile weapon range"
+28071 "Research <b>Craftsmanship<b> (<cost>, Time: 1m:40s)\nWoodcutters work 20% faster and carry +2 wood; +1 missile weapon range"
+
+28069 "Research <b>Gold Mining<b> (<cost>, Time: 50s)\nGold Miners work 30% faster and carry +3 gold"
+28027 "Research <b>Coinage<b> (<cost>, Time: 60s)\nGold Miners carry +3 gold; +25% gold mine productivity; free tribute"
+28070 "Research <b>Stone Mining<b> (<cost>, Time: 30s)\nStone Miners work 30% faster and carry +3 stone; +1 Slinger attack/range"
+28072 "Research <b>Siegecraft<b> (<cost>, Time: 60s)\nStone Miners work 30% faster and carry +3 stone; +1 Slinger attack/range; Villagers +10 attack vs Towers, Walls"
+
+28025 "Research <b>Wheel<b> (<cost>, Time: 1m:30s)\nVillagers move 60% faster; required for chariots and Trade Carts"
+28026 "Research <b>Domestication<b> (<cost>, Time: 40s)\n+75 food production for Farms"
+28028 "Research <b>Plow<b> (<cost>, Time: 1m:15s)\n+100 food production for Farms"
+28024 "Research <b>Irrigation<b> (<cost>, Time: 1m:40s)\n+125 food production for Farms"
+
+
+28063 "Advance to <b>Tool Age<b> (<cost>; two Stone Age buildings)\nAdvance Time: 2m\nGives you access to more buildings, better units and technologies. Requires any 2 Stone Age buildings: Storage Pit, Granary, Dock, or Barracks."
+28064 "Advance to <b>Bronze Age<b> (<cost>; two Tool Age buildings)\nAdvance Time: 2m:20s\nGives you access to more buildings, better units and technologies. Requires any 2 Tool Age buildings: Market, Archery Range, or Stable."
+28065 "Advance to <b>Iron Age<b> (<cost>; two Bronze Age buildings)\nAdvance Time: 2m:40s\nGives you access to more buildings, better units and technologies. Requires any 2 Bronze Age buildings: Temple, Government Center, Siege Workshop, or Academy."
