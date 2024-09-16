@@ -57,12 +57,12 @@
 
 26085 "Create <b>Cavalry Archer<b> (<cost>, Time: 34s)\nFast mounted archer. Great for hit-and-run attacks. Weak vs skirmishers, massed archers, camels. Attack Delay: 0.91, Accuracy: 50%, LoS: 5\nArmor Class: Archer, Cavalry, Cav Archer\nAttack Bonus: +2 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.4 <MATERIAL=StatIconsReloadTime,1> 2"
 26412 "Create <b>Heavy Cavalry Archer<b> (<cost>, Time: 27s)\nFast mounted archer. Great for hit-and-run attacks. Weak vs skirmishers, massed archers, camels. Attack Delay: 0.9, Accuracy: 80%, LoS: 6\nArmor Class: Archer, Cavalry, Cav Archer\nAttack Bonus: +4 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.4 <MATERIAL=StatIconsReloadTime,1> 2"
-26682 "Create <b>Elephant Archer<b> (<cost>, Time: 32s)\nSlow, high HP cavalry archer. Strong vs most units. Weak vs skirmishers, pikemen, camels, monks. Attack Delay: 0.4, Accuracy: 70%, LoS: 7\nArmor Class: Cavalry, Archer, Cav Archer(-4), Elephant, Unique Unit\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.9 <MATERIAL=StatIconsReloadTime,1> 2"
-26684 "Create <b>Elite Elephant Archer<b> (<cost>, Time: 32s)\nSlow, high HP cavalry archer. Strong vs most units. Weak vs skirmishers, pikemen, camels, monks. Attack Delay: 0.4, Accuracy: 85%, LoS: 7\nArmor Class: Cavalry, Archer, Cav Archer(-4), Elephant, Unique Unit\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.9 <MATERIAL=StatIconsReloadTime,1> 2"
+26682 "Create <b>Elephant Archer<b> (<cost>, Time: 32s)\nSlow, high HP cavalry archer. Strong vs most units. Weak vs skirmishers, pikemen, camels, monks. Attack Delay: 0.4, Accuracy: 70%, LoS: 7\nArmor Class: Cavalry, Archer, Cav Archer(-4), Elephant\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.9 <MATERIAL=StatIconsReloadTime,1> 2"
+26684 "Create <b>Elite Elephant Archer<b> (<cost>, Time: 32s)\nSlow, high HP cavalry archer. Strong vs most units. Weak vs skirmishers, pikemen, camels, monks. Attack Delay: 0.4, Accuracy: 85%, LoS: 7\nArmor Class: Cavalry, Archer, Cav Archer(-4), Elephant\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.9 <MATERIAL=StatIconsReloadTime,1> 2"
 
 26086 "Create <b>Hand Cannoneer<b> (<cost>, Time: 34s)\nGunpowder unit with high attack, but low HP and attack speed. Strong vs infantry. Weak vs massed archers, massed cavalry. Requires Chemistry. Attack Delay: 0.35, Accuracy: 75%, LoS: 9\nArmor Class: Archer, Gunpowder\nAttack Bonus: +10 vs Infantry, +1 extra vs Spearmen, +2 vs Rams\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 3.45"
 26690 "Create <b>Slinger<b> (<cost>, Time: 25s)\nIncan unique archer unit, excels at fighting infantry. Weak vs other units. Can't attack at close range. Attack Delay: 0.8, Accuracy: 90%, LoS: 7\nArmor Class: Archer, Unique Unit\nAttack Bonus: +10 vs Infantry, +10 extra vs Condottieri, +1 extra vs Spearmen, +3 vs Rams\n<hp> <attack> <armor> <piercearmor> <range>/1 <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 2"
-26137 "Create <b>Genitour<b> (<cost>, Time: 25s)\nMounted skirmisher, available to Berbers & their allies. Strong vs archers, weak vs most other units. Attack Delay: 0.5, Accuracy: 90%, LoS: 5\nSpecial: Benefits from all skirmisher & cav archer civ bonuses & unique techs (except Yeomen, Lith move speed, Saracen team bonus).\nArmor Class: Archer, Cavalry, Cav Archer(+1), Skirmisher, Unique Unit\nAttack Bonus: +4 vs Archers, +0 extra vs Cav Archers, +3 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range>/1 <MATERIAL=StatIconsMovementSpeed,1> 1.35 <MATERIAL=StatIconsReloadTime,1> 3"
+26137 "Create <b>Genitour<b> (<cost>, Time: 25s)\nMounted skirmisher, available to Berbers & their allies. Strong vs archers, weak vs most other units. Attack Delay: 0.5, Accuracy: 90%, LoS: 5\nSpecial: Benefits from all skirmisher & cav archer civ bonuses & unique techs (except Yeomen, Lith move speed, Saracen team bonus).\nArmor Class: Archer, Cavalry, Cav Archer, Skirmisher, Unique Unit\nAttack Bonus: +4 vs Archers, +0 extra vs Cav Archers, +3 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range>/1 <MATERIAL=StatIconsMovementSpeed,1> 1.35 <MATERIAL=StatIconsReloadTime,1> 3"
 26139 "Create <b>Elite Genitour<b> (<cost>, Time: 25s)\nMounted skirmisher, available to Berbers & their allies. Strong vs archers, weak vs most other units. Attack Delay: 0.5, Accuracy: 90%, LoS: 6\nSpecial: Benefits from all skirmisher & cav archer civ bonuses & unique techs (except Yeomen, Lith move speed, Saracen team bonus).\nArmor Class: Archer, Cavalry, Cav Archer(+1), Skirmisher, Unique Unit\nAttack Bonus: +5 vs Archers, +2 extra vs Cav Archers, +3 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range>/1 <MATERIAL=StatIconsMovementSpeed,1> 1.35 <MATERIAL=StatIconsReloadTime,1> 3"
 
 28100 "Upgrade to <b>Crossbowman<b> (<cost>, Time: 35s)\nArchers +1 attack, +1 range, +5% accuracy, +5 HP, -8s creation time."
@@ -70,7 +70,7 @@
 28218 "Upgrade to <b>Heavy Cavalry Archer<b> (<cost>, Time: 50s)\nCavalry Archers +1 attack, +2 vs Spearmen, +30% accuracy, +10 HP, +1/+0 armor, -7s creation time, +1 LoS."
 28098 "Upgrade to <b>Elite Skirmisher<b> (<cost>, Time: 50s)\nSkirmishers +5 HP, +0/+1 armor, +1 range, +1 attack, +1 vs Archers, +2 extra vs Cav Archers, +1 vs Spearmen."
 28300 "Upgrade to <b>Imperial Skirmisher<b> (<cost>, Time: 50s)\nElite Skirmishers +0/+1 armor, +1 attack, +1 vs Archers, +1 extra vs Cav Archers, +5% accuracy.\n(Available to Vietnamese and their allies)"
-28239 "Upgrade to <b>Elite Genitour<b> (<cost>, Time: 60s)\nGenitours +5 HP, +1 attack, +1 vs Archers, +2 extra vs Cav Archers, +1 LoS.\n(Available to Berbers and their allies)"
+28239 "Upgrade to <b>Elite Genitour<b> (<cost>, Time: 60s)\nGenitours +5 HP, +1 attack, +1 vs Archers, +2 extra vs Cav Archers, +1 LoS, +1 Cav Archer armor.\n(Available to Berbers and their allies)"
 28397 "Upgrade to <b>Elite Elephant Archer<b> (<cost>, Time: 1m:20s)\nElephant Archers +50 HP, +1 attack, +15% accuracy."
 
 26079 "Create <b>Militia<b> (<cost>, Time: 21s)\nBasic infantry unit. Strong vs infantry, buildings. Weak vs archers, heavy cavalry. Attack Delay: 0.5, LoS: 4+2\nArmor Class: Infantry\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 0.9 <MATERIAL=StatIconsReloadTime,1> 2"
@@ -84,7 +84,7 @@
 26408 "Create <b>Pikeman<b> (<cost>, Time: 22s)\nCheap infantry, very strong vs mounted units. Weak vs most other units. Attack Delay: 0.5, LoS: 6\nArmor Class: Infantry, Spearman\nAttack Bonus: +22 vs Cavalry, +25 extra vs Elephants, +18 vs Camels, +11 extra vs Mamelukes, +16 vs Ships, +1 vs Eagles, +1 vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1 <MATERIAL=StatIconsReloadTime,1> 3"
 26409 "Create <b>Halberdier<b> (<cost>, Time: 22s)\nCheap infantry, very strong vs mounted units. Weak vs most other units. Attack Delay: 0.5, LoS: 6\nArmor Class: Infantry, Spearman\nAttack Bonus: +32 vs Cavalry, +28 extra vs Elephants, +26 vs Camels, +11 extra vs Mamelukes, +17 vs Ships, +1 vs Eagles, +1 vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1 <MATERIAL=StatIconsReloadTime,1> 3"
 
-26672 "Create <b>Eagle Scout<b> (<cost>, Time: 60s / 35s)\nFast infantry for scouting & raiding, resists conversion. Strong vs archers, monks, siege. Weak vs Militia-line & cavalry. Attack Delay: 0.8, LoS: 5+3\n<MATERIAL=StatIconsAge3,1>: Gains -25s creation time, +3 attack, +2 vs Cavalry/Camels\nArmor Class: Infantry, Eagle\nAttack Bonus: +8 vs Monks, +3 vs Siege, Castle Age: +2 vs Cavalry, +1 vs Camels, Ships\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.1 <MATERIAL=StatIconsReloadTime,1> 2"
+26672 "Create <b>Eagle Scout<b> (<cost>, Time: 60s / 35s)\nFast infantry for scouting & raiding, resists conversion. Strong vs archers, monks, siege. Weak vs Militia-line & cavalry. Attack Delay: 0.8, LoS: 5+3\n<MATERIAL=StatIconsAge3,1>: Gains -25s creation time, +3 attack, +2 vs Cavalry, +1 vs Camels, Ships\nArmor Class: Infantry, Eagle\nAttack Bonus: +8 vs Monks, +3 vs Siege\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.1 <MATERIAL=StatIconsReloadTime,1> 2"
 26671 "Create <b>Eagle Warrior<b> (<cost>, Time: 35s)\nFast infantry for scouting & raiding, resists conversion. Strong vs archers, monks, siege. Weak vs Militia-line, heavy cavalry, hand cannoneers. Attack Delay: 0.63, LoS: 8\nArmor Class: Infantry, Eagle\nAttack Bonus: +8 vs Monks, +3 vs Siege, +3 vs Cavalry, +2 vs Camels, +1 vs Ships\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.15 <MATERIAL=StatIconsReloadTime,1> 2"
 26673 "Create <b>Elite Eagle Warrior<b> (<cost>, Time: 20s)\nFast infantry for scouting & raiding, resists conversion. Strong vs archers, monks, siege. Weak vs Militia-line, heavy cavalry, hand cannoneers. Attack Delay: 0.8, LoS: 8\nArmor Class: Infantry, Eagle\nAttack Bonus: +10 vs Monks, +5 vs Siege, +4 vs Cavalry, +3 vs Camels, +2 vs Ships\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.3 <MATERIAL=StatIconsReloadTime,1> 2"
 26114 "Create <b>Condottiero<b> (<cost>, Time: 18s)\nFast and durable anti-gunpowder infantry, available to Italians & their allies. Has bonus attack vs gunpowder units, takes reduced damage from Hand Cannoneers. Attack Delay: 0.75, LoS: 8\nArmor Class: Infantry(+10), Condottiero, Unique Unit\nAttack Bonus: +10 vs Gunpowder, +2 vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.2 <MATERIAL=StatIconsReloadTime,1> 1.9"
@@ -183,8 +183,8 @@
 26161 "Build <b>Market<b> (<cost>, Time: 60s)\nAllows buying/selling of resources, trading by land & sending resources to other players. Requires a Mill. Unlocks vision of allied units in games where Shared Exploration is turned off.\nArmor Class: Building, Standard Building\n<hp> <armor> <piercearmor> <garrison> • LoS: 6"
 26138 "Build <b>Monastery<b> (<cost>, Time: 40s)\nTrains & upgrades Monks. Garrison relics inside to generate gold (1 gold per Relic every 2 sec).\nArmor Class: Building, Standard Building\n<hp> <armor> <piercearmor> <garrison> • LoS: 6"
 26144 "Build <b>Dock<b> (<cost>, Time: 35s)\nBuilds & upgrades ships, deposits food from fishing ships, allows trading with other players by sea.\nArmor Class: Building, Standard Building\n<hp> <armor> <piercearmor> <garrison> • LoS: 6"
-26149 "Build <b>Farm<b> (<cost>, Time: 15s)\nRenewable food source that one villager can work on. Upgrades and auto-reseed available at the Mill. Can be taken over by other players' farmers.\n Amount: 175/250/375/550 <MATERIAL=StatIconsFood,1> (Basic / Horse Collar / Heavy Plow / Crop Rotation)\nArmor Class: Building, Standard Building\n<hp> <armor> <piercearmor> • LoS: 1"
-26495 "Build <b>Fish Trap<b> (<cost>, Time: 40s)\nRenewable food source that one fishing ship can work on. Auto-reseed available at the Dock.\nAmount: 715 (x3 for <MATERIAL=IconsMenuTechtreeMalay,1>)\nArmor Class: Building(+10), Standard Building\n<hp> <armor> <piercearmor> • LoS: 1"
+26149 "Build <b>Farm<b> (<cost>, Time: 15s)\nRenewable food source that one villager can work on. Upgrades and auto-reseed available at the Mill. Can be taken over by other players' farmers.\n Amount: 175/250/375/550 <MATERIAL=StatIconsFood,1> (Basic / Horse Collar / Heavy Plow / Crop Rotation)\nArmor Class: Building, Standard Building\n<hp> • LoS: 1"
+26495 "Build <b>Fish Trap<b> (<cost>, Time: 40s)\nRenewable food source that one fishing ship can work on. Auto-reseed available at the Dock.\nAmount: 715 (x3 for <MATERIAL=IconsMenuTechtreeMalay,1>)\nArmor Class: Building(+10), Standard Building\n<hp> • LoS: 1"
 26157 "Build <b>Mill<b> (<cost>, Time: 35s)\nRequired to unlock Farms and the Market. Used to deposit food & research farming upgrades. Build near food sources to gather food efficiently.\nArmor Class: Building, Standard Building\n<hp> <armor> <piercearmor> • LoS: 6"
 26464 "Build <b>Lumber Camp<b> (<cost>, Time: 35s)\nUsed to deposit wood & research wood-gathering upgrades. Build adjacent to forests to gather wood efficiently.\nArmor Class: Building, Standard Building\n<hp> <armor> <piercearmor> • LoS: 6"
 26487 "Build <b>Mining Camp<b> (<cost>, Time: 35s)\nUsed to deposit stone/gold & research mining upgrades. Build 1 tile away from stone/gold mines to gather efficiently.\nArmor Class: Building, Standard Building\n<hp> <armor> <piercearmor> • LoS: 6"
@@ -195,7 +195,7 @@
 26581 "Build <b>Folwark<b> (<cost>, Time: 40s)\nRequired to unlock Farms and the Market. Used to deposit food & research farming upgrades. Build near food sources to gather food efficiently. Provides 5 population.\nSpecial Ability: Instantly collects 8% food from nearby newly constructed farms.\nArmor Class: Building, Standard Building\n<hp> <armor> <piercearmor> • LoS: 6"
 26440 "Build <b>Caravanserai<b> (<cost>, Time: 60s)\nEconomic building that gives Trade Carts in a 10 tile radius +20% movement speed and 1HP/s regeneration. Only available to Hindustanis & Persians.\nArmor Class: Building, Standard Building\n<hp> <armor> <piercearmor> • LoS: 6"
 26038 "Build <b>Fortified Church<b> (<cost>, Time: 40s)\nTrains & upgrades Monks. Garrison relics inside to generate gold (1 gold per Relic every 2 sec). Villagers & Monk units can garrison inside. Villagers & Relics provide additional projectiles.\nArmor Class: Building, Standard Building, Stone Defense\n<hp> <attack> <armor> <piercearmor> <range> <garrison> <MATERIAL=StatIconsReloadTime,1> 2 • LoS: 10"
-26045 "Build <b>Mule Cart<b> (<cost>, Time: 25s)\nMobile dropsite used to deposit wood, gold/stone & hunted food. Researches wood & stone/gold gathering techs. Unique to the Armenians & Georgians. Benefits from Wheelbarrow, Hand Cart as well as the usual building upgrades.\n Armor Class: Building, Standard Building\n<hp> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 0.8 • LoS: 4"
+26045 "Build <b>Mule Cart<b> (<cost>, Time: 25s)\nMobile dropsite for lumberjacks, miners, hunters. Researches wood & stone/gold gathering techs. Unique to the Armenians & Georgians. Benefits from Wheelbarrow, Hand Cart as well as the usual building upgrades. Can garrison inside buildings.\n Armor Class: Building, Standard Building\n<hp> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 0.8 • LoS: 4"
 
 26121 "Create <b>Villager<b> (<cost>, Time: 25s)\nGathers resources, constructs buildings & repairs.\nGather Rates: Farms ~18/min, Berries 18.6/min, Sheep 19.8/min, Wheelbarrow-Farms ~20.6/min, Stone 21.6/min, Gold 22.8/min, HandCart-Farms ~23.2/min, Wood 23.4/min, Hunt 24.6/min, Fish 25.8/min; Attack Delay: 0.64, LoS: 4\nAttack Bonus: +3 vs Buildings, +6 extra vs Stone Defenses, +6 vs Heavy Siege\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 0.8 <MATERIAL=StatIconsReloadTime,1> 2"
 26100 "Build <b>Trade Cart<b> (<cost>, Time: 51s)\nTrade unit that generates gold by traveling between yours and another player's Market. The bigger the distance, the more gold is generated.\n<hp> <MATERIAL=StatIconsMovementSpeed,1> 1 (1.5) • LoS: 7"
@@ -258,12 +258,10 @@
 
 26111 "Create <b>Throwing Axeman<b> (<cost>, Time: 17s)\nRanged infantry. Good vs infantry, buildings. Weak vs archers, heavy cavalry, hand cannoneers. Attack Delay: 1, LoS: 7\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +1 vs Eagles, Standard Buildings\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1 <MATERIAL=StatIconsReloadTime,1> 2"
 26461 "Create <b>Elite Throwing Axeman<b> (<cost>, Time: 17s)\nRanged infantry. Good vs infantry, buildings. Weak vs archers, heavy cavalry, hand cannoneers. Attack Delay: 0.83, LoS: 8\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +2 vs Eagles, Standard Buildings\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1 <MATERIAL=StatIconsReloadTime,1> 2"
-28394 "Upgrade to <b>Elite Throwing Axeman<b> (<cost>, Time: 45s)\nThrowing Axemen +10 HP, +1/+0 armor, +1 range, +1 attack, +1 vs Eagles & Standard Buildings, smaller attack delay."
+28394 "Upgrade to <b>Elite Throwing Axeman<b> (<cost>, Time: 45s)\nThrowing Axemen +10 HP, +1/+0 armor, +1 range, +1 attack, +1 vs Eagles & Standard Buildings, smaller attack delay, +1 LoS."
 
-26104 "Create <b>Huskarl<b> (<cost>, Time: 16s)\nInfantry with very high pierce armor, great for raiding. Very strong vs archers, buildings. Weak vs strong melee units. Attack Delay: 0.8, LoS: 5\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +6 vs Archers, +2 vs Eagles, +4* vs Standard Buildings (Castle Age)\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.05 <MATERIAL=StatIconsReloadTime,1> 2"
-26679 "Create <b>Huskarl<b> (<cost>, Time: 13.3s / 6.7s Perfusion)\nInfantry with very high pierce armor, great for raiding. Very strong vs archers, buildings. Weak vs strong melee units. Attack Delay: 0.8, LoS: 5\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +6 vs Archers, +2 vs Eagles, +4* vs Standard Buildings (Castle Age)\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.05 <MATERIAL=StatIconsReloadTime,1> 2"
-26454 "Create <b>Elite Huskarl<b> (<cost>, Time: 16s)\nInfantry with very high pierce armor, great for raiding. Very strong vs archers, buildings. Weak vs strong melee units. Attack Delay: 0.8, LoS: 7\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +10 vs Archers, +3 vs Eagles, +6* vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.05 <MATERIAL=StatIconsReloadTime,1> 2"
-26681 "Create <b>Elite Huskarl<b> (<cost>, Time: 13.3s / 6.7s Perfusion)\nInfantry with very high pierce armor, great for raiding. Very strong vs archers, buildings. Weak vs strong melee units. Attack Delay: 0.8, LoS: 7\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +10 vs Archers, +3 vs Eagles, +6* vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.05 <MATERIAL=StatIconsReloadTime,1> 2"
+26104 "Create <b>Huskarl<b> (<cost>, Time: 16s / 13.3s Barracks / 6.7s Perfusion)\nInfantry with very high pierce armor, great for raiding. Very strong vs archers, buildings. Weak vs strong melee units. Attack Delay: 0.8, LoS: 5\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +6 vs Archers, +2 vs Eagles, +4* vs Standard Buildings (Castle Age)\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.05 <MATERIAL=StatIconsReloadTime,1> 2"
+26454 "Create <b>Elite Huskarl<b> (<cost>, Time: 16s / 13.3s Barracks / 6.7s Perfusion)\nInfantry with very high pierce armor, great for raiding. Very strong vs archers, buildings. Weak vs strong melee units. Attack Delay: 0.8, LoS: 7\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +10 vs Archers, +3 vs Eagles, +6* vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.05 <MATERIAL=StatIconsReloadTime,1> 2"
 28386 "Upgrade to <b>Elite Huskarl<b> (<cost>, Time: 40s)\nHuskarls +10 HP, +0/+2 armor, +2 attack, +4 vs Archers, +1 vs Eagles & Standard Buildings, +2 LoS."
 
 26110 "Create <b>Samurai<b> (<cost>, Time: 9s)\nFast-attacking infantry with bonus attack vs unique units. Strong vs most melee units. Weak vs archers, hand cannoneers. Attack Delay: 0.8, LoS: 6\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +10 vs Unique Units, +2 vs Eagles, Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1 <MATERIAL=StatIconsReloadTime,1> 1.42*"
@@ -319,8 +317,8 @@
 26688 "Create <b>Elite Kamayuk<b> (<cost>, Time: 10s)\nStrong well-rounded infantry with increased attack range. Strong vs mounted units and infantry. Weak vs massed archers, hand cannoneers. Attack Delay: 0.5, LoS: 7\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +12 vs Cavalry, +20 extra vs Elephants, +10 vs Camels, +1 extra vs Mamelukes\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1 <MATERIAL=StatIconsReloadTime,1> 2"
 28265 "Upgrade to <b>Elite Kamayuk<b> (<cost>, Time: 45s)\nKamayuks +10 HP, +1 attack, +4 vs Cavalry & Camels, +1 extra vs Mamelukes, +1 LoS."
 
-26431 "Create <b>Ghulam<b> (<cost>, Time: 12s)\nFast infantry with high pierce armor. Thrusts its spear through multiple targets, dealing 50% damage to units 1 tile in the line of attack. Strong vs archers. Weak vs cavalry, hand cannoneers. Attack Delay: 0.5, LoS: 8\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +5 vs Archers, +2 vs Eagles & Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.15 <MATERIAL=StatIconsReloadTime,1> 2"
-26432 "Create <b>Elite Ghulam<b> (<cost>, Time: 12s)\nFast infantry with high pierce armor. Thrusts its spear through multiple targets, dealing 50% damage to units 1 tile in the line of attack. Strong vs archers. Weak vs cavalry, hand cannoneers. Attack Delay: 0.5, LoS: 8\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +6 vs Archers, +2 vs Eagles & Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.2 <MATERIAL=StatIconsReloadTime,1> 2"
+26431 "Create <b>Ghulam<b> (<cost>, Time: 12s)\nFast infantry with high pierce armor. Thrusts its spear through multiple targets, dealing 50% damage to units 1 tile in the line of attack. Strong vs archers. Weak vs cavalry, hand cannoneers. Attack Delay: 0.5, LoS: 8\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +5 vs Archers, +2 vs Eagles & Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.15 <MATERIAL=StatIconsReloadTime,1> 2 <MATERIAL=StatIconsBlastRadius,1> 1"
+26432 "Create <b>Elite Ghulam<b> (<cost>, Time: 12s)\nFast infantry with high pierce armor. Thrusts its spear through multiple targets, dealing 50% damage to units 1 tile in the line of attack. Strong vs archers. Weak vs cavalry, hand cannoneers. Attack Delay: 0.5, LoS: 8\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +6 vs Archers, +2 vs Eagles & Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.2 <MATERIAL=StatIconsReloadTime,1> 2 <MATERIAL=StatIconsBlastRadius,1> 1"
 28364 "Upgrade to <b>Elite Ghulam<b> (<cost>, Time: 45s)\nGhulams +10 HP, +2 attack, +1 vs Archers, +0.05 speed."
 
 26723 "Create <b>Genoese Crossbowman<b> (<cost>, Time: 14s)\nArcher with bonus attack vs mounted units. Weak vs archers, skirmishers & siege. Attack Delay: 0.5, Accuracy: 100%, LoS: 8\nArmor Class: Archer, Unique Unit\nAttack Bonus: +5 vs Cavalry, +5 extra vs Elephants, +4 vs Camels, +4 vs Ships\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 2"
@@ -339,13 +337,13 @@
 26136 "Create <b>Elite Camel Archer<b> (<cost>, Time: 25s / 20s Kasbah)\nStrong cavalry archer with bonus attack vs Cavalry Archers. Great for hit-and-run attacks. Weak vs skirmishers, massed archers, camels. Attack Delay: 0.63, Accuracy: 95%, LoS: 5\nArmor Class: Archer, Camel, Cav Archer, Unique Unit\nAttack Bonus: +6 vs Cav Archers\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.4 <MATERIAL=StatIconsReloadTime,1> 2"
 28238 "Upgrade to <b>Elite Camel Archer<b> (<cost>, Time: 45s)\nCamel Archers +1 attack, +2 vs Cav Archers, +5 HP, +1/+0 armor."
 
-26143 "Create <b>Shotel Warrior<b> (<cost>, Time: 8s)\nFast, quick-creating infantry with high attack but low HP & armor. Weak vs archers, hand cannoneers. Attack Delay: 0.75, LoS: 5\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +2 vs Eagles, +1 vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.2 <MATERIAL=StatIconsReloadTime,1> 2"
+26143 "Create <b>Shotel Warrior<b> (<cost>, Time: 8s)\nFast, quick-creating infantry with high attack but low HP & armor. Weak vs archers, hand cannoneers. Attack Delay: 0.75, LoS: 5\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +2 vs Eagles\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.2 <MATERIAL=StatIconsReloadTime,1> 2"
 26145 "Create <b>Elite Shotel Warrior<b> (<cost>, Time: 4s)\nFast, quick-creating infantry with high attack but low HP & armor. Weak vs archers, hand cannoneers. Attack Delay: 0.75, LoS: 5\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +2 vs Eagles, +1 vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.2 <MATERIAL=StatIconsReloadTime,1> 2"
-28245 "Upgrade to <b>Elite Shotel Warrior<b> (<cost>, Time: 45s)\nShotel Warriors +2 attack, +5 HP, +0/+1 armor, -4s creation time."
+28245 "Upgrade to <b>Elite Shotel Warrior<b> (<cost>, Time: 45s)\nShotel Warriors -4s creation time, +5 HP, +0/+1 armor, +2 attack, +1 vs Standard Buildings."
 
 26140 "Create <b>Gbeto<b> (<cost>, Time: 17s)\nFast ranged infantry with high attack, great for hit-and-run. Weak vs massed archers, massed cavalry. Attack Delay: 1, LoS: 8\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +1 vs Eagles\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.25 <MATERIAL=StatIconsReloadTime,1> 2"
 26141 "Create <b>Elite Gbeto<b> (<cost>, Time: 17s)\nFast ranged infantry with high attack, great for hit-and-run. Weak vs massed archers, massed cavalry. Attack Delay: 1, LoS: 9\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +1 vs Eagles\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.25 <MATERIAL=StatIconsReloadTime,1> 2"
-28241 "Upgrade to <b>Elite Gbeto<b> (<cost>, Time: 45s)\nGbetos +3 attack, +1 range, +10 HP."
+28241 "Upgrade to <b>Elite Gbeto<b> (<cost>, Time: 45s)\nGbetos +3 attack, +1 range, +10 HP, +1 LoS."
 
 26129 "Create <b>Organ Gun<b> (<cost>, Time: 21s)\nGunpowder siege weapon that fires a spread volley of 5 bullets, each damaging the first unit it hits, for full damage. Strong vs infantry, archers. Weak vs cavalry, siege, monks. Attack Delay: 0.6, LoS: 9\nArmor Class: Siege, Gunpowder, Unique Unit\nAttack Bonus: +2 vs Infantry & Skirmishers, +1 vs Rams\n<hp> <attack> <armor> <piercearmor> <range>/1 <MATERIAL=StatIconsMovementSpeed,1> 0.85 <MATERIAL=StatIconsReloadTime,1> 3.45"
 26130 "Create <b>Elite Organ Gun<b> (<cost>, Time: 21s)\nGunpowder siege weapon that fires a spread volley of 6 bullets, each damaging the first unit it hits, for full damage. Strong vs infantry, archers. Weak vs cavalry, siege, monks. Attack Delay: 0.6, LoS: 9\nArmor Class: Siege, Gunpowder, Unique Unit\nAttack Bonus: +2 vs Infantry & Skirmishers, +1 vs Rams & Buildings\n<hp> <attack> <armor> <piercearmor> <range>/1 <MATERIAL=StatIconsMovementSpeed,1> 0.85 <MATERIAL=StatIconsReloadTime,1> 3.45"
@@ -401,9 +399,9 @@
 26563 "Build <b>Elite Hussite Wagon<b> (<cost>, Time: 26s)\nProtective gunpowder siege unit. Fires 5 extra bullets, each dealing 6 damage (+3 vs Buildings, Rams). Strong vs archers. Weak vs siege weapons, melee units. Attack Delay: 0.62, Accuracy: 90%, LoS: 8\nSpecial: Reduces ranged damage dealt to allies behind it by 50%.\nArmor Class: Gunpowder, Siege, Unique Unit, Hussite Wagon\nAttack Bonus: +3 vs Rams, +2 vs Buildings\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.8 Avg <MATERIAL=StatIconsReloadTime,1> 3.45"
 28347 "Upgrade to <b>Elite Hussite Wagon<b> (<cost>, Time: 45s)\nHussite Wagons +70 HP, +1/+3 armor, +3 attack(main), +1 vs Buildings, +2 attack(secondary), +5% accuracy."
 
-26414 "Create <b>Ratha<b> (<cost>, Time: 18s)\nUnique cavalry archer that can switch between melee and ranged attacks. Melee mode deals 20% trample damage in 0.5 radius. Weak vs skirmishers, camels. Accuracy: 80%, Ranged Attack Delay: 0.62, Melee Attack Delay: 0.67, LoS: 6\nArmor Class: Archer, Cavalry, Cav Archer(+1), Unique Unit\n<hp> <attack> (10 melee) <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.3 <MATERIAL=StatIconsReloadTime,1> 2 <MATERIAL=StatIconsBlastRadius,1> 0.5 (melee only)"
-26420 "Create <b>Elite Ratha<b> (<cost>, Time: 18s)\nUnique cavalry archer that can switch between melee and ranged attacks. Melee mode deals 20% trample damage in 0.5 radius. Weak vs skirmishers, camels. Accuracy: 90%, Ranged Attack Delay: 0.62, Melee Attack Delay: 0.67, LoS: 6\nAttack Bonus: +2 vs Spearmen (ranged only)\nArmor Class: Archer, Cavalry, Cav Archer(+1), Unique Unit\n<hp> <attack> (12 melee) <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.3 <MATERIAL=StatIconsReloadTime,1> 2 <MATERIAL=StatIconsBlastRadius,1> 0.5 (melee only)"
-28355 "Upgrade to <b>Elite Ratha<b> (<cost>, Time: 45s)\nRathas +10 HP, +1 attack(ranged), +2 vs Spearmen(ranged), +2 attack(melee), +0/+1 armor, +10% ranged accuracy."
+26414 "Create <b>Ratha<b> (<cost>, Time: 18s)\nUnique cavalry archer that can switch between melee and ranged attacks. Melee mode deals 20% trample damage in 0.5 radius. Weak vs skirmishers, camels. Accuracy: 80%, Ranged Attack Delay: 0.62, Melee Attack Delay: 0.67, LoS: 6\nAttack Bonus (ranged only): +1 vs Spearmen\nArmor Class: Archer, Cavalry, Cav Archer(+1), Unique Unit\n<hp> <attack> (10 melee) <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.3 <MATERIAL=StatIconsReloadTime,1> 2 <MATERIAL=StatIconsBlastRadius,1> 0.5 (melee only)"
+26420 "Create <b>Elite Ratha<b> (<cost>, Time: 18s)\nUnique cavalry archer that can switch between melee and ranged attacks. Melee mode deals 20% trample damage in 0.5 radius. Weak vs skirmishers, camels. Accuracy: 90%, Ranged Attack Delay: 0.62, Melee Attack Delay: 0.67, LoS: 6\nAttack Bonus (ranged only): +2 vs Spearmen\nArmor Class: Archer, Cavalry, Cav Archer(+1), Unique Unit\n<hp> <attack> (12 melee) <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.3 <MATERIAL=StatIconsReloadTime,1> 2 <MATERIAL=StatIconsBlastRadius,1> 0.5 (melee only)"
+28355 "Upgrade to <b>Elite Ratha<b> (<cost>, Time: 45s)\nRathas +10 HP, +1 attack(ranged), +1 vs Spearmen(ranged), +2 attack(melee), +0/+1 armor, +10% ranged accuracy."
 41058 "<b>Change Weapon<b>\nSwitch to a sword to use a melee attack and gain 20% trample damage in 0.5 radius."
 41059 "<b>Change Weapon<b>\nSwitch to a bow to use a ranged pierce attack and gain 4 base attack range."
 
@@ -413,7 +411,7 @@
 
 26421 "Create <b>Chakram Thrower<b> (<cost>, Time: 15s)\nRanged infantry that damages multiple units in a line with full attack damage. Strong vs infantry. Weak vs archers and siege weapons. Attack Delay: 0.8, LoS: 9\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +1 vs Eagles, Standard Buildings\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.15 <MATERIAL=StatIconsReloadTime,1> 2"
 26427 "Create <b>Elite Chakram Thrower<b> (<cost>, Time: 15s)\nRanged infantry that damages multiple units in a line with full attack damage. Strong vs infantry. Weak vs archers and siege weapons. Attack Delay: 0.8, LoS: 10\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +2 vs Eagles, Standard Buildings, +1 vs Infantry, Condottiero\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.15 <MATERIAL=StatIconsReloadTime,1> 2"
-28356 "Upgrade to <b>Elite Chakram Thrower<b> (<cost>, Time: 45s)\nChakram Throwers +10 HP, +1 range, +1 attack, +1 vs Eagles, Standard Buildings, Infantry, Condottieri."
+28356 "Upgrade to <b>Elite Chakram Thrower<b> (<cost>, Time: 45s)\nChakram Throwers +10 HP, +1 range, +1 attack, +1 vs Eagles, Standard Buildings, Infantry, Condottieri, +1 LoS."
 
 26052 "Create <b>Centurion<b> (<cost>, Time: 24s)\nHeavy cavalry unit. Buffs nearby Militia-line units. Strong vs infantry, archers. Weak vs pikemen, camels. Attack Delay: 0.58, LoS: 4\nSpecial: Provides +10% move speed, +20% attack speed to your Militia-line units in a 10 tile radius.\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.35 <MATERIAL=StatIconsReloadTime,1> 1.9"
 26053 "Create <b>Elite Centurion<b> (<cost>, Time: 24s)\nHeavy cavalry unit. Buffs nearby Militia-line units. Strong vs infantry, archers. Weak vs pikemen, camels. Attack Delay: 0.58, LoS:5\nSpecial: Provides +15% move speed, +20% attack speed to your Militia-line units in a 12 tile radius.\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.35 <MATERIAL=StatIconsReloadTime,1> 1.9"
@@ -423,8 +421,8 @@
 26034 "Create <b>Elite Composite Bowman<b> (<cost>, Time: 10s)\nArcher that ignores enemy armor. Strong vs melee units. Weak vs archers and siege. Attack Delay: 0.5, LoS: 7\nArmor Class: Archer, Unique Unit\nAttack Bonus: +2 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 2"
 28404 "Upgrade to <b>Elite Composite Bowman<b> (<cost>, Time: 45s)\nComposite Bowmen +5 HP, +1/+0 armor, -2s creation time."
 
-26035 "Create <b>Monaspa<b> (<cost>, Time: 14s)\nUnique cavalry that gains bonus attack when other Monaspas or Knight-line units are nearby. Strong vs melee units. Weak vs pikemen, camels. Attack Delay: 0.68, LoS: 4\nSpecial: Gains +1 attack for every 7 units nearby, up to a maximum of +4\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.4 <MATERIAL=StatIconsReloadTime,1> 1.8"
-26036 "Create <b>Elite Monaspa<b> (<cost>, Time: 14s)\nUnique cavalry that gains bonus attack when other Monaspas or Knight-line units are nearby. Strong vs melee units. Weak vs pikemen, camels. Attack Delay: 0.68, LoS: 4\nSpecial: Gains +1 attack for every 7 units nearby, up to a maximum of +4\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.4 <MATERIAL=StatIconsReloadTime,1> 1.8"
+26035 "Create <b>Monaspa<b> (<cost>, Time: 14s)\nUnique cavalry that gains bonus attack when other Monaspas or Knight-line units are nearby. Strong vs melee units. Weak vs pikemen, camels. Attack Delay: 0.68, LoS: 4\nSpecial: Gains +1 attack for every 7 Monaspa/Knights nearby, up to a maximum of +4\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.4 <MATERIAL=StatIconsReloadTime,1> 1.8"
+26036 "Create <b>Elite Monaspa<b> (<cost>, Time: 14s)\nUnique cavalry that gains bonus attack when other Monaspas or Knight-line units are nearby. Strong vs melee units. Weak vs pikemen, camels. Attack Delay: 0.68, LoS: 4\nSpecial: Gains +1 attack for every 7 Monaspa/Knights nearby, up to a maximum of +4\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.4 <MATERIAL=StatIconsReloadTime,1> 1.8"
 28405 "Upgrade to <b>Elite Monaspa<b> (<cost>, Time: 45s)\nMonaspas +15 HP, +2/+0 armor, +2 attack, +1 LoS."
 
 
@@ -491,7 +489,7 @@
 28093 "Research <b>Ballistics<b> (<cost>, Time: 60s)\nArchers, cavalry archers, skirmishers, defensive buildings, ranged warships fire more accurately at moving targets."
 28278 "Research <b>Arrowslits<b> (<cost>, Time: 25s)\nWatch Towers +1 attack, Guard Towers +2 attack, Keeps/Donjons +3 attack."
 28374 "Research <b>Heated Shot<b> (<cost>, Time: 30s)\nTowers/Donjons gain +125% attack vs Ships.\nCastles, Kreposts, Harbors gain +25% attack vs Ships."
-28378 "Research <b>Siege Engineers<b> (<cost>, Time: 45s)\nRanged siege units, Cannon Galleons, Dromons, Turtle Ships +1 range.\nSiege units, Cannon Galleons, Dromons +20% damage vs Buildings. Petards, Demo Ships +40% damage vs Buildings."
+28378 "Research <b>Siege Engineers<b> (<cost>, Time: 45s)\nRanged siege units, siege ships, Turtle Ships +1 range.\nSiege units, siege ships +20% damage vs Buildings. Explosive units +40% damage vs Buildings."
 28321 "Research <b>Murder Holes<b> (<cost>, Time: 35s)\nEliminates the minimum range of all defensive buildings so they can fire at enemies attacking their base."
 28163 "Upgrade to <b>Fortified Wall<b> (<cost>, Time: 50s)\nStone Walls +1200 HP, +4/+2 armor, +8 Building armor. Stone Gates +1250 HP."
 28186 "Upgrade to <b>Guard Tower<b> (<cost>, Time: 30s)\nWatch Towers +480 HP, +1/+1 armor, +2 attack, +2 vs Ships."
@@ -509,7 +507,7 @@
 28316 "Research <b>Atonement<b> (<cost>, Time: 40s)\nMonks can convert enemy Monks."
 28249 "Research <b>Fervor<b> (<cost>, Time: 50s)\nMonks move 15% faster."
 28315 "Research <b>Redemption<b> (<cost>, Time: 50s)\nMonks can convert all siege units & buildings. Buildings, Rams & Trebuchets can only be converted from melee range. Specific buildings like Castles, Town Centers, Monasteries and Wonders are impossible to convert."
-28435 "Research <b>Herbal Medicine<b> (<cost>, Time: 35s)\nUnits garrisoned in buildings heal 6X faster.\n(Castles 1.2 HP/s, Other buildings 0.6 HP/s)"
+28435 "Research <b>Herbal Medicine<b> (<cost>, Time: 35s)\nBuildings heal garrisoned units 6X faster.\n(Castles 1.2 HP/s, Fortified Churches 2.4 HP/s, Other buildings 0.6 HP/s)"
 28220 "Research <b>Illumination<b> (<cost>, Time: 1m:5s)\nMonks restore their faith 87.5% faster. Time it takes to fully regain faith improved from 62s to 33s."
 28416 "Research <b>Theocracy<b> (<cost>, Time: 1m:15s)\nIf a group of Monks converts a unit, only one Monk must rest afterwards."
 
@@ -574,7 +572,7 @@
 28310 "Research <b>Timurid Siegecraft<b> (<cost>, Time: 50s)\nTrebuchets +2 range."
 28291 "Research <b>Tusk Swords<b> (<cost>, Time: 40s)\nBattle Elephants +3 attack."
 28292 "Research <b>Double Crossbows<b> (<cost>, Time: 40s)\nHeavy Scorpions & Ballista Elephants fire a second projectile with 75% attack damage. (50% for castle age Scorpions)"
-28307 "Research <b>Stirrups<b> (<cost>, Time: 35s)\nStable units & Konniks attack 33% faster."
+28307 "Research <b>Stirrups<b> (<cost>, Time: 35s)\nMelee Cavalry attack 33% faster."
 28308 "Research <b>Bagains<b> (<cost>, Time: 40s)\nMilitia-line units +5 melee armor."
 28272 "Research <b>Pavise<b> (<cost>, Time: 40s)\nArchers & Condottieri +1/+1 armor."
 28273 "Research <b>Silk Road<b> (<cost>, Time: 60s)\nTrade units cost -50%."
@@ -610,7 +608,7 @@
 28445 "Research <b>Comitatenses<b> (<cost>, Time: 60s)\nMilitia-line, Knight-line, Centurions train 50% faster and receive a +5 charge attack every 20s."
 28406 "Research <b>Fereters<b> (<cost>, Time: 45s)\nInfantry (except Spear-line) +30 HP, Warrior Priests +100% heal speed (total 4 HP/s)."
 28407 "Research <b>Cilician Fleet<b> (<cost>, Time: 45s)\nDemolition Ships +20% blast radius. Galley-line & Dromons +1 range."
-28440 "Research <b>Svan Towers<b> (<cost>, Time: 45s)\nDefensive buildings receive +2 attack. Towers fire arrows that pierce multiple units."
+28440 "Research <b>Svan Towers<b> (<cost>, Time: 45s)\nDefensive buildings +2 attack. Towers fire arrows that pierce multiple units."
 28441 "Research <b>Aznauri Cavalry<b> (<cost>, Time: 45s)\nCavalry units take 15% less population space."
 
 41072 "Click to <b>sell<b> 100 wood for %d gold\nGold gained decreases with each click. SHIFT + click to sell 500 wood."
@@ -627,7 +625,7 @@
 43025 "<b>Armor<b>\nShows how much protection the unit has from melee/pierce attacks. Melee armor reduces damage from melee combat, demolition units, mangonels, bombard cannons, cannon galleons. Pierce armor reduces damage from all missile firing units (archers, warships, scorpions, towers) & hand cannoneers."
 42025 "Melee Armor/Pierce Armor"
 41023 "<b>Flank Formation<b>\nForm the units into two subgroups. Useful for dodging Mangonel shots or surrounding the enemy."
-41068 "<b>Garrison<b>\nGarrison units inside a defensive building for protection & healing. Archers & villagers fire arrows from inside. Herbal Medicine boosts heal by 6x.\nHeal Rate: 0.1 HP/s (0.2 HP in Castles)"
+41068 "<b>Garrison<b>\nGarrison units inside a defensive building for protection & healing. Archers & villagers fire arrows from inside. Herbal Medicine boosts heal by 6x.\nHeal Rate: 0.1 HP/s (0.2 HP in Castle, 0.4 HP Fortified Church)"
 41055 "<b>Pack<b> (Time: 11s)\nDismantle the selected Trebuchets so you can move them."
 41056 "<b>Unpack<b> (Time: 11s)\nAssemble the selected Trebuchets into stationary units so they can attack."
 4944 "<b>Set Gather Point<b>\nSet a point at which all units ungarrisoned from the selected buildings will gather at."
@@ -635,7 +633,6 @@
 300186 "<b>Objectives & Map Info<b>"
 40048 "Mini-map Terrain Colors"
 41111 "<b>Ring Town Bell<b>\nSignals all villagers to garrison in nearby defensive buildings for protection. Not recommended for competitive play."
-
 42120 "SHIFT + click to unselect this %s."
 42121 "Click to select 1 %s. CTRL + click to unselect."
 42122 "Click to select 1 %s. CTRL + click to unselect. SHIFT + click to select all similar units."
@@ -655,7 +652,8 @@
 3088 "This building's queue is full."
 3089 "Unable to unload."
 3090 "Unable to ungarrison."
-3092 "Click the building you want the unit to garrison inside."
+3091 "Atonement required."
+3092 "Click a building to garrison."
 3093 "Redemption required."
 3094 "Building site canceled."
 3095 ""
@@ -742,8 +740,7 @@
 42021 ""
 42022 ""
 42023 ""
-42024 "Attack"
-42025 "Armor"
+42024 "Attack" //42025 "Armor"
 42026 "Range"
 42027 "Monk Faith"
 42028 ""
@@ -786,5 +783,7 @@
 20607 "Build more houses."
 20608 "Population at maximum."
 300046 "Kill/Death"
-//credits to PacificWheel for the idea of the no more useless tooltips where redudant tooltips are replaced by blank text
+//credits to PacificWheel for the idea of the no more useless tooltips where redundant tooltips are replaced by blank text
 //credits to Jineapple for the original Max Extended Help mod from Aoe2HD which was my original inspiration for this
+//credits to cmdhigsby for suggesting a lot of improvements to the mod (especially the custom icons) and helping with pointing out incorrect info in the mod
+//credits to HebyGamer who is working on the spanish translation of the mod together with his friend
