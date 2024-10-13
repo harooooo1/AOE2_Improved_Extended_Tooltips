@@ -783,7 +783,7 @@
 20607 "Construir mas casas."
 20608 "Población al máximo."
 300046 "Víctimas/Muertes"
-//credits to PacificWheel for el idea of el no more useless tooltips where redundant tooltips are replaced by blank text
-//credits to Jineapple for el original Max Extended Help mod from Aoe2HD which was my original inspiration for this
-//credits to cmdhigsby for suggesting a lot of mejoraments to el mod (especially el custom icons) y helping con pointing out incorrect info in el mod
+//credits to PacificWheel for the idea of the no more useless tooltips where redundant tooltips are replaced by blank text
+//credits to Jineapple for the original Max Extended Help mod from Aoe2HD which was my original inspiration for this
+//credits to cmdhigsby for suggesting a lot of improvementes to the mod (especially the custom icons) and helping with pointing out incorrect info in the mod
 //credits to HebyGamer who is working on the Spanish translation of the mod together with Aleksander Borysov Ravelo
