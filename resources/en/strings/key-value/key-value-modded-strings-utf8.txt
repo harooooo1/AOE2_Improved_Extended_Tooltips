@@ -687,7 +687,6 @@
 4925 "<b>Convert<b> (Right-Click)\nConvert an enemy unit/building to your control. Monks must wait to regain faith after a successful conversion.\nConversion Time (min-max): land units 6.25-11.25s, scouts 10-12.5s, ships and battle/war elephants 8.75-13.75s, buildings ~18-30s\nConversion Chance every 1.25s: 40% units, ~20% scouts, ~10% buildings\nResting Time: 62s"
 4927 "<b>Repair<b> (Right-Click)\nRepair a building, ship or siege unit. First villager repairs at 12.5 HP/s, others 6.25 HP/s. A full repair costs half of the original build cost. Exceptions are Gates which are 1.5x cost and Town Centers which are 2x wood cost, 0 stone cost."
 43025 "<b>Armor<b>\nShows how much protection the unit has from melee/pierce attacks. Melee armor reduces damage from melee combat, demolition units, mangonels, bombard cannons, cannon galleons. Pierce armor reduces damage from all missile firing units (archers, warships, scorpions, towers) & hand cannoneers."
-42025 "Armor Classes"
 41023 "<b>Flank Formation<b>\nForm the units into two subgroups. Useful for dodging Mangonel shots or surrounding the enemy."
 41068 "<b>Garrison<b>\nGarrison units inside a defensive building for protection & healing. Archers & villagers fire arrows from inside. Herbal Medicine boosts heal by 6x.\nHeal Rate: 0.1 HP/s (0.2 HP in Castle, 0.4 HP Fortified Church)"
 41055 "<b>Pack<b> (Time: 11s)\nDismantle the selected Trebuchets so you can move them."
@@ -804,7 +803,8 @@
 42021 ""
 42022 ""
 42023 ""
-42024 "Attack" //42025 "Armor"
+42024 "Attack and Bonus Damage"
+42025 "Armor Classes"
 42026 "Range"
 42027 "Monk Faith"
 42028 ""
@@ -833,7 +833,7 @@
 300105 ""
 300177 "" //ctrl grp
 300184 "" //Mini-map
-300185 "" //globalqueue
+300185 "CTRL-click to remove item from queue. Click to go to building containing the queue." //globalqueue
 300187 "Options"
 300188 ""
 300289 "Chat & Taunts"
