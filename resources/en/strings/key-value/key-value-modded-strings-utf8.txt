@@ -629,7 +629,7 @@
 28307 "Research <b>Stirrups<b> (<cost>, Time: 35s)\nMelee Cavalry attack 33% faster."
 28308 "Research <b>Bagains<b> (<cost>, Time: 40s)\nMilitia-line units +5 melee armor."
 28273 "Research <b>Silk Road<b> (<cost>, Time: 60s)\nTrade units cost -50%."
-28084 "Research <b>Pirotechnia<b> (<cost>, Time: 50s)\nHand Cannoneers deal +25% pass through damage and are more accurate."
+28084 "Research <b>Pirotechnia<b> (<cost>, Time: 50s)\nHand Cannoneers deal +15% pass through damage and are more accurate."
 28250 "Research <b>Carrack<b> (<cost>, Time: 32s*)\nShips +1/+1 armor."
 28251 "Research <b>Arquebus<b> (<cost>, Time: 32s*)\nGunpowder units & buildings fire more accurately at moving targets & gain increased projectile speed. Bombard Cannons & Bombard Towers +0.2 projectile speed, other gunpowder units +0.5 projectile speed."
 28280 "Research <b>Nomads<b> (<cost>, Time: 40s)\nLost houses don't reduce population space."
