@@ -848,7 +848,42 @@
 20607 "Construir mas casas."
 20608 "Población al máximo."
 300046 "Víctimas/Muertes"
+
+// Attack and Armor classes
+12401 "<MATERIAL=BuildingIcons002Barracks1,1> Infantería"
+12402 "<MATERIAL=UnitIcons11650730,1> Barcos de guerra pesados"
+12403 "<MATERIAL=StatIconsRange-Armor> Perforación"
+12404 "<MATERIAL=StatIconsArmor> Cuerpo a cuerpo"
+12405 "<MATERIAL=UnitIcons17950730,1> Unidades de elefante"
+12408 "<MATERIAL=BuildingIcons023Stable1,1> Caballería"
+12411 "<MATERIAL=BuildingIcons043PavilionSmall,1> Todos los edificios"
+12413 "<MATERIAL=UnitIcons00950730,1> Defensa de piedra"
+12414 "<MATERIAL=UnitIcons19450730,1> Animales depredadores"
+12415 "<MATERIAL=BuildingIcons000ArcheryRange1,1> Arqueros"
+12416 "<MATERIAL=BuildingIcons013Dock1,1> Barcos"
+12417 "<MATERIAL=UnitIcons07450730,1> Arietes"
+12418 "<MATERIAL=UnitIcons03250730,1> Árboles"
+12419 "<MATERIAL=UnitIcons10550730,1> Unidades únicas"
+12420 "<MATERIAL=BuildingIcons022SiegeWorkshop2,1> Armas de asedio"
+12421 "<MATERIAL=BuildingIcons034House,1> Edificios estándar"
+12422 "<MATERIAL=BuildingIcons031StoneWall,1> Murallas y puertas"
+12423 "<MATERIAL=TechIconsT012Chemistry,1> Unidades de pólvora"
+12424 "<MATERIAL=UnitIcons09850730,1> Jabalíes"
+12425 "<MATERIAL=BuildingIcons010Monastery1,1> Monjes"
+12426 "<MATERIAL=BuildingIcons008Fortress,1> Castillos"
+12427 "<MATERIAL=UnitIcons03150730,1> Lanceros"
+12428 "<MATERIAL=UnitIcons01950730,1> Arqueros a caballo"
+12429 "<MATERIAL=UnitIcons14850730,1> Infantería de choque"
+12430 "<MATERIAL=UnitIcons13550730,1> Unidades de camello"
+12432 "<MATERIAL=UnitIcons13450730,1> Condotieri"
+12434 "<MATERIAL=TechIconsT041Gillnets,1> Barcos pesqueros"
+12435 "<MATERIAL=UnitIcons03750730,1> Mamelucos"
+12436 "<MATERIAL=UnitIcons08250730,1> Héroes y reyes"
+12437 "<MATERIAL=UnitIcons37050730,1> Asedio pesado"
+12438 "<MATERIAL=UnitIcons02150730,1> Guerrilleros"
+12439 "<MATERIAL=IconsMenuTechtreeEthiopians,1> Centralización"
+
 //credits to PacificWheel for the idea of the no more useless tooltips where redundant tooltips are replaced by blank text
 //credits to Jineapple for the original Max Extended Help mod from Aoe2HD which was my original inspiration for this
 //credits to cmdhigsby for suggesting a lot of improvementes to the mod (especially the custom icons) y helping with pointing out incorrect info in the mod
-//credits to HebyGamer who is working on the Spanish translation of the mod together with Aleksander Borysov Ravelo
+//credits to HebyGamer who is working on the Spanish translation of the mod, together with Aleksander Borysov Ravelo
