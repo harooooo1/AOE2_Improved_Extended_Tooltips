@@ -943,6 +943,12 @@
 12437 "<MATERIAL=UnitIcons37050730,1> Heavy Siege"
 12438 "<MATERIAL=UnitIcons02150730,1> Skirmishers"
 12439 "<MATERIAL=IconsMenuTechtreeEthiopians,1> Royal Heirs"
+12460 "<MATERIAL=UnitIcons49750730> Long-Range Warships"
+12441 "<MATERIAL=TechIconsT040FastFireShip> Fire Ships"
+
+
+42042 "Ignores Armor"
+42043 "Damage Over Time"
 
 //credits to PacificWheel for the idea of the no more useless tooltips where redundant tooltips are replaced by blank text
 //credits to Jineapple for the original Max Extended Help mod from Aoe2HD which was my original inspiration for this
