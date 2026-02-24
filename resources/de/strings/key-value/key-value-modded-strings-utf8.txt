@@ -291,7 +291,7 @@
 
 28240 "Upgrade to <b>Elite Caravel<b> (<cost>, Time: 48s*)\nCaravels +24 HP, +1 range, +3 attack, +2 vs Long-range Warships, +0/+1 armor."
 28393 "Upgrade to <b>Elite Longboat<b> (<cost>, Time: 60s)\nLongboats +5 HP, +1 range, +2 attack, +1/+3 armor, +1 LoS."
-28437 "Upgrade to <b>Elite Turtle Ship<b> (<cost>, Time: 1m:5s)\nTurtle Ships +75 HP, +1/+5 armor, improved cannon (+5 attack), improved rockets (+4 attack, +1 vs Siege, +1 extra vs Heavy Siege), +1 LoS."
+28437 "Upgrade to <b>Elite Turtle Ship<b> (<cost>, Time: 65s)\nTurtle Ships +75 HP, +1/+5 armor, improved cannon (+5 attack), improved rockets (+4 attack, +1 vs Siege, +1 extra vs Heavy Siege), +1 LoS."
 28375 "Upgrade to <b>Elite Cannon Galleon<b> (<cost>, Time: 30s)\nCannon Galleons +30 HP, +2 range, +0/+1 armor, +0.05 blast radius, +10 attack, +75 vs Buildings, +2 LoS."
 
 26660 "Create <b>Petard<b> (<cost>, Time: 25s)\nSelf-destructing unit armed with explosives. Strong vs buildings, especially Walls. Weak vs units. LoS: 4\nAttack Bonus: +500 vs Buildings, +900 extra vs Walls & Gates, +100 extra vs Castles, +60 vs Siege\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 0.8 <MATERIAL=StatIconsBlastRadius,1> 0.5"
@@ -410,7 +410,7 @@
 
 26151 "Create <b>Arambai<b> (<cost>, Time: 18s)\nCavalry archer with a powerful but inaccurate attack. Strong when massed. Good vs closely packed groups of units. Not affected by archer attack upgrades. <GREY><DEFAULT>Attack Delay: 0.6, Accuracy: 20%, LoS: 7\nSpecial: Missed shots deal full damage (instead of half) to secondary targets\nArmor Class: Archer, Cavalry, Cav Archer, Unique Unit\nAttack Bonus: +2 vs Rams\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.3 <MATERIAL=StatIconsReloadTime,1> 2"
 26152 "Create <b>Elite Arambai<b> (<cost>, Time: 18s)\nCavalry archer with a powerful but inaccurate attack. Strong when massed. Good vs closely packed groups of units. Not affected by archer attack upgrades. Attack Delay: 0.6, Accuracy: 30%, LoS: 7\nSpecial: Missed shots deal full damage (instead of half) to secondary targets\nArmor Class: Archer, Cavalry, Cav Archer, Unique Unit\nAttack Bonus: +2 vs Rams\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.3 <MATERIAL=StatIconsReloadTime,1> 2"
-28289 "Upgrade to <b>Elite Arambai<b> (<cost>, Time: 1m:5s)\nArambai +2 attack, +10% accuracy, +5 HP, +0/+1 armor."
+28289 "Upgrade to <b>Elite Arambai<b> (<cost>, Time: 65s)\nArambai +2 attack, +10% accuracy, +5 HP, +0/+1 armor."
 
 26146 "Create <b>Ballista Elephant<b> (<cost>, Time: 25s)\nElephant scorpion. Fires bolts that damage units in a line (50% damage dealt to secondary targets). Cuts trees. Weak vs siege, heavy cavalry, mass pikemen. <GREY><DEFAULT>Projectile Width: 0.1, Attack Delay: 0.4, Accuracy: 100%, LoS: 7\nArmor Class: Cavalry, Elephant, Siege, Heavy Siege(+10), Unique Unit\nAttack Bonus: +8 vs Ships, +2 vs Buildings, +3 extra vs Standard Buildings, +3 extra vs Stone Defenses\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.8 <MATERIAL=StatIconsReloadTime,1> 2.5"
 26147 "Create <b>Elite Ballista Elephant<b> (<cost>, Time: 25s)\nElephant scorpion. Fires bolts that damage units in a line (50% damage dealt to secondary targets). Cuts trees. Weak vs siege, heavy cavalry, mass pikemen. Projectile Width: 0.1, Attack Delay: 0.4, Accuracy: 100%, LoS: 7\nArmor Class: Cavalry, Elephant, Siege, Heavy Siege(+10), Unique Unit\nAttack Bonus: +8 vs Ships, +4 vs Buildings, +4 extra vs Standard Buildings, +4 extra vs Stone Defenses\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.8 <MATERIAL=StatIconsReloadTime,1> 2.5"
@@ -431,7 +431,7 @@
 
 26315 "Create <b>Kipchak<b> (<cost>, Time: 20s)\nCheap, fast cavalry archer with lower attack and range, strong when massed. Fires 2 extra arrows, each dealing 3 pierce + 0 melee damage (good vs Battering Rams). Great for hit-and-run attacks. Weak vs heavy cavalry, camels, archers at range. <GREY><DEFAULT>Attack Delay: 0.5, Accuracy: 90%, LoS: 6\nArmor Class: Archer, Cavalry, Cav Archer, Unique Unit\nAttack Bonus: +1 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.54* <MATERIAL=StatIconsReloadTime,1> 2.2"
 26327 "Create <b>Elite Kipchak<b> (<cost>, Time: 20s / 12s Mercenary)\nCheap, fast cavalry archer with lower attack and range, strong when massed. Fires 3 extra arrows, each dealing 3 pierce + 0 melee damage (good vs Battering Rams). Great for hit-and-run attacks. Weak vs heavy cavalry, camels, archers at range. Attack Delay: 0.5, Accuracy: 90%, LoS: 6\nArmor Class: Archer, Cavalry, Cav Archer, Unique Unit\nAttack Bonus: +1 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.62* <MATERIAL=StatIconsReloadTime,1> 2.2"
-28305 "Upgrade to <b>Elite Kipchak<b> (<cost>, Time: 1m:5s)\nKipchaks +1 attack, +1 extra arrow, +5 HP."
+28305 "Upgrade to <b>Elite Kipchak<b> (<cost>, Time: 65s)\nKipchaks +1 attack, +1 extra arrow, +5 HP."
 
 26328 "Create <b>Leitis<b> (<cost>, Time: 20s)\nPowerful heavy cavalry with high attack. Ignores enemy armor when attacking. Strong vs most melee units. Weak vs archers, monks. <GREY><DEFAULT>Attack Delay: 0.7, LoS: 5\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.4 <MATERIAL=StatIconsReloadTime,1> 1.9"
 26329 "Create <b>Elite Leitis<b> (<cost>, Time: 18s)\nPowerful heavy cavalry with high attack. Ignores enemy armor when attacking. Strong vs most melee units. Weak vs archers, monks. Attack Delay: 0.7, LoS: 5\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.4 <MATERIAL=StatIconsReloadTime,1> 1.9"
@@ -572,7 +572,7 @@
 28258 "Research <b>Arson<b> (<cost>, Time: 25s)\nInfantry units +2 attack vs Standard Buildings."
 
 28411 "Research <b>Thumb Ring<b> (<cost>, Time: 45s)\nArchers, cavalry archers, skirmishers gain 100% accuracy vs stationary targets.\nAll archer & cavalry archer units fire 18% faster except the following: Chu Ko Nu 25%; Cavalry Archer, War Wagon 11%; Slinger 0%"
-28415 "Research <b>Parthian Tactics<b> (<cost>, Time: 1m:5s)\nCavalry archer units +1/+2 armor, +2 attack vs Spearmen."
+28415 "Research <b>Parthian Tactics<b> (<cost>, Time: 65s)\nCavalry archer units +1/+2 armor, +2 attack vs Spearmen."
 
 28409 "Research <b>Bloodlines<b> (<cost>, Time: 50s)\nMounted units +20 HP."
 28039 "Research <b>Husbandry<b> (<cost>, Time: 40s)\nMounted units move 10% faster."
@@ -631,7 +631,7 @@
 28249 "Research <b>Fervor<b> (<cost>, Time: 50s)\nMonks move 15% faster."
 28315 "Research <b>Redemption<b> (<cost>, Time: 50s)\nMonks can convert all siege units & buildings. Buildings, Rams, Siege Towers, Trebuchets can only be converted from melee range. Specific buildings like Castles, Town Centers, Monasteries and Wonders are impossible to convert."
 28435 "Research <b>Herbal Medicine<b> (<cost>, Time: 35s)\nBuildings heal garrisoned units 6X faster.\n(Castles 1.2 HP/s, Fortified Churches 2.4 HP/s, Other buildings 0.6 HP/s)"
-28220 "Research <b>Illumination<b> (<cost>, Time: 1m:5s)\nMonks restore their faith 87.5% faster. Time it takes to fully regain faith improved from 62s to 33.06s (<MATERIAL=IconsMenuTechtreePersians,1> improved from 31s to 16.53s)"
+28220 "Research <b>Illumination<b> (<cost>, Time: 65s)\nMonks restore their faith 87.5% faster. Time it takes to fully regain faith improved from 62s to 33.06s (<MATERIAL=IconsMenuTechtreeMuisca,1> 31s to 16.53s)."
 28416 "Research <b>Theocracy<b> (<cost>, Time: 1m:15s)\nIf a group of Monks converts a unit, only one Monk must rest afterwards."
 
 28377 "Research <b>Shipwright<b> (<cost>, Time: 60s)\nShips are built 54% faster and cost 20% less wood."
