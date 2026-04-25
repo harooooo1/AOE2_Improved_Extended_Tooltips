@@ -82,14 +82,14 @@
 26514 "Create <b>Bolas Rider<b> (<cost>, Time: 34s)\nMapuche unique Mounted Archer with a charged attack that slows the target. Strong vs mounted units, good for hit-and-run. Weak vs foot archers, skirmishers. <GREY><DEFAULT>Attack Delay: 0.76, Accuracy: 90%, LoS: 7\nSpecial: Charged attack deals +2 damage and slows down the target by 15% for 10s\nCharge Time: 30s\nArmor Class: Archer, Cavalry, Cav Archer, Unique Unit\nAttack Bonus: +2 vs Cavalry, Camels, Rams\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.5 <MATERIAL=StatIconsReloadTime,1> 2"
 26515 "Create <b>Elite Bolas Rider<b> (<cost>, Time: 28s)\nMapuche unique Mounted Archer with a charged attack that slows the target. Strong vs mounted units, good for hit-and-run. Weak vs foot archers, skirmishers. Attack Delay: 0.76, Accuracy: 95%, LoS: 7\nSpecial: Charged attack deals +3 damage and slows down the target by 15% for 10s\nCharge Time: 30s\nArmor Class: Archer, Cavalry, Cav Archer, Unique Unit\nAttack Bonus: +3 vs Cavalry, Camels, +2 vs Rams\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.5 <MATERIAL=StatIconsReloadTime,1> 2"
 
-28100 "Upgrade to <b>Crossbowman<b> (<cost>, Time: 35s)\nArchers -8s creation time, +1 attack, +1 range, +5% accuracy, +5 HP, +1 LoS."
-28233 "Upgrade to <b>Arbalester<b> (<cost>, Time: 50s)\nCrossbowmen +1 attack, +5% accuracy, +5 HP."
-28218 "Upgrade to <b>Heavy Cavalry Archer<b> (<cost>, Time: 50s)\nCavalry Archers -7s creation time, +1 attack, +2 vs Spearmen, +30% accuracy, +10 HP, +1/+0 armor, +1 LoS."
-28098 "Upgrade to <b>Elite Skirmisher<b> (<cost>, Time: 50s)\nSkirmishers -4s creation time, +5 HP, +0/+1 armor, +1 range, +1 attack, +1 vs Archers, +2 extra vs Cav Archers, +2 vs Mamelukes, +1 vs Spearmen, +1 LoS."
+28100 "Upgrade to <b>Crossbowman<b> (<cost>, Time: 35s)\nArchers -8s creation time, +5 HP, +1 attack, +1 range, +5% accuracy, +1 LoS."
+28233 "Upgrade to <b>Arbalester<b> (<cost>, Time: 50s)\nCrossbowmen +5 HP, +1 attack, +5% accuracy."
+28218 "Upgrade to <b>Heavy Cavalry Archer<b> (<cost>, Time: 50s)\nCavalry Archers -7s creation time, +10 HP, +1/+0 armor, +1 attack, +2 vs Spearmen, +30% accuracy, +1 LoS."
+28098 "Upgrade to <b>Elite Skirmisher<b> (<cost>, Time: 50s)\nSkirmishers -4s creation time, +5 HP, +0/+1 armor, +1 attack, +1 vs Archers, +2 extra vs Cav Archers, +2 vs Mamelukes, +1 vs Spearmen, +1 LoS."
 28300 "Upgrade to <b>Imperial Skirmisher<b> (<cost>, Time: 50s)\nElite Skirmishers +0/+1 armor, +1 attack, +1 vs Archers, +1 extra vs Cav Archers, +1 vs Mamelukes, +5% accuracy.\n(Available to Vietnamese and their allies)"
 28239 "Upgrade to <b>Elite Genitour<b> (<cost>, Time: 60s)\nGenitours +5 HP, +1 attack, +1 vs Archers, +2 extra vs Cav Archers, +1 LoS, +1 Cav Archer armor.\n(Available to Berbers and their allies)"
 28397 "Upgrade to <b>Elite Elephant Archer<b> (<cost>, Time: 1m:20s)\nElephant Archers +50 HP, +1 attack, +15% accuracy."
-28494 "Upgrade to <b>Elite Bolas Rider<b> (<cost>, Time: 45s)\nBolas Riders -6s creation time, +10 HP, +1 range, +1 attack, +1 vs Cavalry, Camels, +0/+1 armor."
+28494 "Upgrade to <b>Elite Bolas Rider<b> (<cost>, Time: 45s)\nBolas Riders -6s creation time, +10 HP, +0/+1 armor, +1 attack, +1 vs Cavalry, Camels, +1 range."
 
 26079 "Create <b>Militia<b> (<cost>, Time: 21s)\nBasic infantry unit. Strong vs infantry, buildings. Weak vs archers, heavy cavalry. Attack Delay: 0.75, LoS: 4+2\nArmor Class: Infantry\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 0.9 <MATERIAL=StatIconsReloadTime,1> 2"
 26080 "Create <b>Man-at-Arms<b> (<cost>, Time: 21s)\nAll-purpose infantry unit. Strong vs infantry, buildings. Weak vs archers, heavy cavalry. Attack Delay: 0.75, LoS: 6\nArmor Class: Infantry\nAttack Bonus: +2 vs Shock Infantry, +2 vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 2"
@@ -127,8 +127,8 @@
 28446 "Upgrade to <b>Legionary<b> (<cost>, Time: 1m:40s)\nLong Swordsmen +15 HP, +1/+1 armor, +3 attack, +4 vs Infantry, +2 vs Shock Infantry, +1 vs Standard Buildings, +1 LoS."
 28176 "Upgrade to <b>Pikeman<b> (<cost>, Time: 35s)\nSpearmen +10 HP, +1 attack, +7 vs Cavalry, +10 extra vs Elephants, +6 vs Camels, +7 extra vs Mamelukes, +7 vs Ships."
 28414 "Upgrade to <b>Halberdier<b> (<cost>, Time: 50s)\nPikemen +5 HP, +2 attack, +10 vs Cavalry, +3 extra vs Elephants, +8 vs Camels, +1 vs Ships."
-28413 "Upgrade to <b>Eagle Warrior<b> (<cost>, Time: 50s)\nEagle Scouts +5 HP, +0/+1 armor, +0.05 move speed, +1 attack vs Cavalry & Camels."
-28433 "Upgrade to <b>Elite Eagle Warrior<b> (<cost>, Time: 50s)\nEagle Warriors -15s creation time, +5 HP, +0/+1 armor, +0.15 move speed, +2 attack, +2 vs Monks & Siege, +1 vs Cavalry, Camels & Ships."
+28413 "Upgrade to <b>Eagle Warrior<b> (<cost>, Time: 50s)\nEagle Scouts +5 HP, +0/+1 armor, +1 attack vs Cavalry & Camels, +0.05 move speed."
+28433 "Upgrade to <b>Elite Eagle Warrior<b> (<cost>, Time: 50s)\nEagle Warriors -15s creation time, +5 HP, +0/+1 armor, +2 attack, +2 vs Monks & Siege, +1 vs Cavalry, Camels & Ships, +0.15 move speed."
 28463 "Upgrade to <b>Elite Fire Lancer<b> (<cost>, Time: 50s)\nFire Lancers -10s creation time, +20 HP, +1/+1 armor, +1 bullet damage, +1 bullet range, +1 attack, +10 vs Cavalry, +10 extra vs Elephants, +8 vs Camels, Ships, +1 LoS."
 
 28487 "Upgrade to <b>Champi Runner<b> (<cost>, Time: 40s)\nChampi Scouts -8s creation time, +5 HP, +0.1 move speed, +2 attack (but lose 1 vs Cavalry & Camels and 2 vs Shock Infantry), -5s outpost build time."
@@ -164,7 +164,7 @@
 26438 "Create <b>Elite Shrivamsha Rider<b> (<cost>, Time: 20s)\nFast light cavalry with a projectile-evading shield that replenishes over time. Strong vs ranged units, excels at raiding. Weak vs infantry, camels, heavy cavalry. Attack Delay: 0.68, LoS: 6\nShield Capacity: 7 hits, Replenish Time: 20s per hit\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.6 <MATERIAL=StatIconsReloadTime,1> 1.9"
 
 28261 "Upgrade to <b>Light Cavalry<b> (<cost>, Time: 45s)\nScout Cavalry +15 HP, +2 attack, +4 vs Monks, move 5% slower."
-28417 "Upgrade to <b>Hussar<b> (<cost>, Time: 50s)\nLight Cavalry +15 HP, attack 5% faster, +2 attack vs Monks"
+28417 "Upgrade to <b>Hussar<b> (<cost>, Time: 50s)\nLight Cavalry +15 HP, +2 attack vs Monks, attack 5% faster."
 28352 "Upgrade to <b>Winged Hussar<b> (<cost>, Time: 60s)\nLight Cavalry +20 HP, +1/+0 armor, +2 attack, +4 vs Gunpowder, +2 vs Monks, attack 5% faster. (only available to the Lithuanians and Poles)"
 28207 "Upgrade to <b>Cavalier<b> (<cost>, Time: 1m:20s)\nKnights +20 HP, +2 attack."
 28259 "Upgrade to <b>Paladin<b> (<cost>, Time: 2m:50s)\nCavaliers +40 HP, +0/+1 armor, +2 attack, attack 5% slower, +1 LoS."
@@ -199,14 +199,14 @@
 26065 "Build <b>Heavy Rocket Cart<b> (<cost>, Time: 40s)\nGunpowder siege weapon with a ranged splash attack. Fires a volley of 8 projectiles which ignore armor. Can't attack at close range. Strong vs tight groups of units. Attacks damage both allied and enemy units. Destroys trees. Attack Delay: 0.03, Accuracy: 100%, LoS: 10\nArmor Class: Siege, Gunpowder\nAttack Bonus: +12 vs Buildings, +7 extra vs Walls & Gates, +7 extra vs Castle, +2 vs Siege, +5 extra vs Heavy Siege\n<hp> <attack> <armor> <piercearmor> <range>/2.5 <MATERIAL=StatIconsMovementSpeed,1> 0.6 <MATERIAL=StatIconsReloadTime,1> 5.65* <MATERIAL=StatIconsBlastRadius,1> 1.25"
 26698 "Build <b>Mounted Trebuchet<b> (<cost>, Time: 46s)\nMounted siege unit with long range. Can't attack at close range. Projectiles leave lingering fire on the ground in a 0.7 tile radius for 10 seconds, dealing 2/4 damage per second to units/buildings. Strong vs siege units, tight groups of units. <GREY><DEFAULT>Attack Delay: 0.7, Accuracy: 100%, LoS: 13\nArmor Class: Camel, Siege, Heavy Siege, Unique Unit\nAttack Bonus: +30 vs Siege, +10 vs Buildings\n<hp> <attack> <armor> <piercearmor> <range>/3 <MATERIAL=StatIconsMovementSpeed,1> 0.8 <MATERIAL=StatIconsReloadTime,1> 6.5 <MATERIAL=StatIconsBlastRadius,1> 0.5"
 
-28096 "Upgrade to <b>Capped Ram<b> (<cost>, Time: 50s)\nRams +25 HP, gain 1.5 blast radius, +1 attack, +10 vs Buildings, Siege, +1/+10 armor, +1 Ram armor."
-28263 "Upgrade to <b>Siege Ram<b> (<cost>, Time: 1m:15s)\nRams +70 HP, +0.5 blast radius, +1 attack, +40 vs Buildings, +15 vs Siege, +1/+5 armor, +1 Ram armor."
-28262 "Upgrade to <b>Onager<b> (<cost>, Time: 1m:15s)\nMangonels +0.25 blast radius, +10 attack, +10 vs Buildings & Heavy Siege, +1 range, +10 HP, +0/+1 armor, +1 LoS. Allows the unit to destroy trees."
-28323 "Upgrade to <b>Siege Onager<b> (<cost>, Time: 2m:30s)\nOnagers +0.25 blast radius, +25 attack, +15 vs Buildings, +10 HP, +0/+1 armor."
-28244 "Upgrade to <b>Heavy Scorpion<b> (<cost>, Time: 50s)\nScorpions +3 attack, +3 vs Elephants, Buildings, +1 vs Infantry, Rams, +20 HP, +1/+1 armor."
-28353 "Upgrade to <b>Houfnice<b> (<cost>, Time: 2m:20s)\nBombard Cannons +0.2 blast radius, +10 attack, +50 vs Buildings, +10 extra vs Stone Defenses, +10 vs Ships & Heavy Siege, +10 HP, +0/+1 armor. Requires Chemistry."
-28363 "Upgrade to <b>Siege Elephant<b> (<cost>, Time: 60s)\nArmored Elephants +40 HP, +15 attack vs Buildings, +10 vs Siege, gain 1.5 blast radius and 33% trample damage, +0/+10 armor, +3 Cavalry & Elephant armor."
-28470 "Upgrade to <b>Heavy Rocket Cart<b> (<cost>, Time: 1m:15s)\nRocket Carts +0.25 blast radius, +1 range, +2 extra projectiles, +5 attack vs Buildings, +1 extra vs Walls & Gates, +20 HP, +0/+2 armor, attack 1.5% faster. Allows the unit to destroy trees."
+28096 "Upgrade to <b>Capped Ram<b> (<cost>, Time: 50s)\nRams +25 HP, +1/+10 armor, +1 Ram armor, +1 attack, +10 vs Buildings, Siege, gain 1.5 blast radius."
+28263 "Upgrade to <b>Siege Ram<b> (<cost>, Time: 1m:15s)\nRams +70 HP, +1/+5 armor, +1 Ram armor, +1 attack, +40 vs Buildings, +15 vs Siege, +0.5 blast radius."
+28262 "Upgrade to <b>Onager<b> (<cost>, Time: 1m:15s)\nMangonels +10 HP, +0/+1 armor, +10 attack, +10 vs Buildings & Heavy Siege, +0.25 blast radius, +1 range, +1 LoS. Allows the unit to destroy trees."
+28323 "Upgrade to <b>Siege Onager<b> (<cost>, Time: 2m:30s)\nOnagers +10 HP, +0/+1 armor, +25 attack, +15 vs Buildings, +0.25 blast radius."
+28244 "Upgrade to <b>Heavy Scorpion<b> (<cost>, Time: 50s)\nScorpions +20 HP, +1/+1 armor, +3 attack, +3 vs Elephants, Buildings, +1 vs Infantry, Rams."
+28353 "Upgrade to <b>Houfnice<b> (<cost>, Time: 2m:20s)\nBombard Cannons +10 HP, +0/+1 armor, +10 attack, +50 vs Buildings, +10 extra vs Stone Defenses, +10 vs Ships & Heavy Siege, +0.2 blast radius. Requires Chemistry."
+28363 "Upgrade to <b>Siege Elephant<b> (<cost>, Time: 60s)\nArmored Elephants +40 HP, +0/+10 armor, +3 Cavalry & Elephant armor, +15 attack vs Buildings, +10 vs Siege, gain 1.5 blast radius and 33% trample damage."
+28470 "Upgrade to <b>Heavy Rocket Cart<b> (<cost>, Time: 1m:15s)\nRocket Carts +20 HP, +0/+2 armor, +5 attack vs Buildings, +1 extra vs Walls & Gates, +0.25 blast radius, +1 range, +2 extra projectiles, attack 1.5% faster. Allows the unit to destroy trees."
 
 26544 "Build <b>Donjon<b> (<cost>, Time: 1m:23s*)\nLarge tower that trains Serjeants and Spearman-line units. Can be built by Serjeants or villagers. Can be built in Dark Age but cannot shoot any arrows until Feudal Age. Unlocks the building of Archery Ranges and Stables.\nSpecial: Gains attack ability, +625 HP, +1/+1 armor in Feudal Age; +250 HP, +1 extra arrow in Castle Age and +750 HP, +1 arrow in Imperial Age.\nArmor Class: Building, Standard Building, Stone Defense\nAttack Bonus: +5 vs Stone Defenses (extra arrows only), +7 vs Ships, +2 vs Spearmen, +1 vs Camels\n<hp> <attack> <armor> <piercearmor> <range>/1 <garrison> <MATERIAL=StatIconsReloadTime,1> 2 • LoS: 10"
 26349 "Build <b>Krepost<b> (<cost>, Time: 2m:30s)\nMini-castle with a strong attack. Trains Konniks and Petards. Researches Elite Konnik. Adds 20 population space.\nArmor Class: Building(+8), Standard Building, Castle\nAttack Bonus: +11 vs Stone Defenses & Ships, +2 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range>/1 <garrison> <MATERIAL=StatIconsReloadTime,1> 2 • LoS: 10"
@@ -287,13 +287,13 @@
 
 28034 "Upgrade to <b>War Galley, War Hulk, Fire Ship<b> (<cost>, Time: 50s)\n• Galleys -18s build time, +15 HP, +1 range, +1 attack, +0/+1 armor, +1 LoS.\n• Fire Galleys -22s build time, +10 HP, +1/+0 armor, +1 attack, +1 vs Buildings, +0.11 move speed.\n• Hulk: -15s build time, +25 HP, -0.25s reload time (attack 16% faster), +1/0 armor."
 28035 "Upgrade to <b>Galleon, Carrack, Fast Fire Ship<b> (<cost>, Time: 65s)\n• War Galleys +30 HP, +0/+2 armor, +1 range, +2 attack, +4 vs Long-range Warships, +1 LoS.\n• War Hulks +20 HP, +0.1 speed, +1/0 armor, +1 LoS.\n• Fire Ships +20 HP, +1 attack, +1 vs Buildings, +0.09 move speed, +1/+3 armor, +1 LoS. (Chinese-only Dragon Ships +15 HP, +0.5 range, +2 attack, +1 vs Buildings, +0.1 move speed, +1/+3 armor, +1 LoS)"
-528002 "Upgrade to <b>Demolition Ship<b> (<cost>, Time: 50s)\nDemolition Rafts -14s build time, +0.1 move speed, +10 HP, +0.5 blast radius, +20 attack, +40 vs Buildings, +1/0 armor."
-28242 "Upgrade to <b>Heavy Demolition Ship<b> (<cost>, Time: 50s)\nDemolition Ships +20 HP, +25 attack, +60 vs Buildings, +0.25 blast radius, +1/0 armor."
+528002 "Upgrade to <b>Demolition Ship<b> (<cost>, Time: 50s)\nDemolition Rafts -14s build time, +10 HP, +1/0 armor, +20 attack, +40 vs Buildings, +0.5 blast radius, +0.1 move speed."
+28242 "Upgrade to <b>Heavy Demolition Ship<b> (<cost>, Time: 50s)\nDemolition Ships +20 HP, +1/0 armor, +25 attack, +60 vs Buildings, +0.25 blast radius."
 
-28240 "Upgrade to <b>Elite Caravel<b> (<cost>, Time: 48s*)\nCaravels +24 HP, +1 range, +3 attack, +2 vs Long-range Warships, +0/+1 armor."
-28393 "Upgrade to <b>Elite Longboat<b> (<cost>, Time: 60s)\nLongboats +5 HP, +1 range, +2 attack, +1/+3 armor, +1 LoS."
-28437 "Upgrade to <b>Elite Turtle Ship<b> (<cost>, Time: 65s)\nTurtle Ships +75 HP, +1/+5 armor, +1 range, improved cannon (+5 attack), improved rockets (+4 attack, +1 vs Siege, +1 extra vs Heavy Siege), +1 LoS."
-28375 "Upgrade to <b>Elite Cannon Galleon<b> (<cost>, Time: 30s)\nCannon Galleons +30 HP, +2 range, +0/+1 armor, +0.05 blast radius, +10 attack, +75 vs Buildings, +2 LoS."
+28240 "Upgrade to <b>Elite Caravel<b> (<cost>, Time: 48s*)\nCaravels +24 HP, +0/+1 armor, +3 attack, +2 vs Long-range Warships, +1 range."
+28393 "Upgrade to <b>Elite Longboat<b> (<cost>, Time: 60s)\nLongboats +5 HP, +1/+3 armor, +2 attack, +1 range, +1 LoS."
+28437 "Upgrade to <b>Elite Turtle Ship<b> (<cost>, Time: 65s)\nTurtle Ships +75 HP, +1/+5 armor, improved cannon (+5 attack), improved rockets (+4 attack, +1 vs Siege, +1 extra vs Heavy Siege), +1 range, +1 LoS."
+28375 "Upgrade to <b>Elite Cannon Galleon<b> (<cost>, Time: 30s)\nCannon Galleons +30 HP, +0/+1 armor, +10 attack, +75 vs Buildings, +0.05 blast radius, +2 range, +2 LoS."
 
 26660 "Create <b>Petard<b> (<cost>, Time: 25s)\nSelf-destructing unit armed with explosives. Strong vs buildings, especially Walls. Weak vs units. LoS: 4\nAttack Bonus: +500 vs Buildings, +900 extra vs Walls & Gates, +100 extra vs Castles, +60 vs Siege\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 0.8 <MATERIAL=StatIconsBlastRadius,1> 0.5"
 26381 "Build <b>Trebuchet<b> (<cost>, Time: 50s)\nPowerful anti-building long-range siege weapon. Must be packed/unpacked to move/attack. Destroys trees. Attack Delay: 0.88, Accuracy: 80% vs Buildings, 15% vs Units, LoS: 19\nArmor Class: Ram (unpacked), Siege\nAttack Bonus: +250 vs Buildings\n<hp> <attack> <armor> <piercearmor> (150 unpacked) <range>/4 <MATERIAL=StatIconsMovementSpeed,1> 0.8 <MATERIAL=StatIconsReloadTime,1> 10"
@@ -302,7 +302,7 @@
 
 26107 "Create <b>Longbowman<b> (<cost>, Time: 18s)\nStrong archer with long attack range. Weak vs skirmishers, heavy cavalry. <GREY><DEFAULT>Attack Delay: 0.5, Accuracy: 70%, LoS: 8\nArmor Class: Archer, Unique Unit\nAttack Bonus: +2 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 2"
 26456 "Create <b>Elite Longbowman<b> (<cost>, Time: 18s)\nStrong archer with long attack range. Weak vs skirmishers, heavy cavalry. Attack Delay: 0.5, Accuracy: 80%, LoS: 9\nArmor Class: Archer, Unique Unit\nAttack Bonus: +2 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 2"
-28381 "Upgrade to <b>Elite Longbowman<b> (<cost>, Time: 60s)\nLongbowmen +1 attack, +1 range, +10% accuracy, +5 HP, +0/+1 armor."
+28381 "Upgrade to <b>Elite Longbowman<b> (<cost>, Time: 60s)\nLongbowmen +5 HP, +0/+1 armor, +1 attack, +1 range, +10% accuracy."
 
 26101 "Create <b>Cataphract<b> (<cost>, Time: 20s)\nStrong cavalry with bonus attack vs infantry & bonus armor vs anti-cavalry attacks. Weak vs archers. <GREY><DEFAULT>Attack Delay: 0.68, LoS: 4\nArmor Class: Cavalry(+12), Unique Unit\nAttack Bonus: +9 vs Infantry\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.35 <MATERIAL=StatIconsReloadTime,1> 1.8"
 26451 "Create <b>Elite Cataphract<b> (<cost>, Time: 20s)\nStrong cavalry with bonus attack vs infantry & bonus armor vs anti-cavalry attacks. Weak vs archers. Attack Delay: 0.68, LoS: 5\nArmor Class: Cavalry(+16), Unique Unit\nAttack Bonus: +12 vs Infantry\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.35 <MATERIAL=StatIconsReloadTime,1> 1.7"
@@ -346,7 +346,7 @@
 
 26105 "Create <b>Janissary<b> (<cost>, Time: 16.8s*)\nStrong hand cannoneer with more attack, range & HP. Weak vs massed archers, skirmishers. <GREY><DEFAULT>Attack Delay: 0.4, Accuracy: 50%, LoS: 10\nArmor Class: Archer, Gunpowder, Unique Unit\nAttack Bonus: +2 vs Rams\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 3.45"
 26455 "Create <b>Elite Janissary<b> (<cost>, Time: 16.8s*)\nStrong hand cannoneer with more attack, range & HP. Weak vs massed archers, skirmishers. Attack Delay: 0, Accuracy: 65%, LoS: 10\nArmor Class: Archer, Gunpowder, Unique Unit\nAttack Bonus: +3 vs Rams\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 3.45"
-28392 "Upgrade to <b>Elite Janissary<b> (<cost>, Time: 55s)\nJanissaries +1 range, +5 attack, +1 vs Rams, +15% accuracy, smaller attack delay, +6 HP, +1/+0 armor."
+28392 "Upgrade to <b>Elite Janissary<b> (<cost>, Time: 55s)\nJanissaries +6 HP, +1/+0 armor, +5 attack, +1 vs Rams, +1 range, +15% accuracy, smaller attack delay."
 
 26574 "Create <b>Berserk<b> (<cost>, Time: 14s)\nStrong all-purpose infantry that regenerates 40 HP/min (0.66HP/s). Weak vs massed archers, hand cannoneers. <GREY><DEFAULT>Attack Delay: 0.8, LoS: 5\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +2 vs Shock Infantry, Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.05 <MATERIAL=StatIconsReloadTime,1> 2"
 26576 "Create <b>Elite Berserk<b> (<cost>, Time: 12s)\nStrong all-purpose infantry that regenerates 40 HP/min (0.66HP/s). Weak vs massed archers, hand cannoneers. Attack Delay: 0.5, LoS: 7\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +3 vs Shock Infantry, Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.05 <MATERIAL=StatIconsReloadTime,1> 2"
