@@ -201,8 +201,8 @@
 
 28096 "Upgrade to <b>Capped Ram<b> (<cost>, Time: 50s)\nRams +25 HP, +1/+10 armor, +1 Ram armor, +1 attack, +10 vs Buildings, Siege, gain 1.5 blast radius."
 28263 "Upgrade to <b>Siege Ram<b> (<cost>, Time: 1m:15s)\nRams +70 HP, +1/+5 armor, +1 Ram armor, +1 attack, +40 vs Buildings, +15 vs Siege, +0.5 blast radius."
-28262 "Upgrade to <b>Onager<b> (<cost>, Time: 1m:15s)\nMangonels +10 HP, +0/+1 armor, +10 attack, +10 vs Buildings & Heavy Siege, +0.25 blast radius, +1 range, +1 LoS. Allows the unit to destroy trees."
-28323 "Upgrade to <b>Siege Onager<b> (<cost>, Time: 2m:30s)\nOnagers +10 HP, +0/+1 armor, +25 attack, +15 vs Buildings, +0.25 blast radius."
+28262 "Upgrade to <b>Onager<b> (<cost>, Time: 1m:15s)\nMangonels +10 HP, +0/+2 armor, +15 attack, +10 vs Buildings & Heavy Siege, +0.25 blast radius, +1 range, +1 LoS. Allows the unit to destroy trees."
+28323 "Upgrade to <b>Siege Onager<b> (<cost>, Time: 2m:30s)\nOnagers +10 HP, +20 attack, +15 vs Buildings, +0.25 blast radius."
 28244 "Upgrade to <b>Heavy Scorpion<b> (<cost>, Time: 50s)\nScorpions +20 HP, +1/+1 armor, +3 attack, +3 vs Elephants, Buildings, +1 vs Infantry, Rams."
 28353 "Upgrade to <b>Houfnice<b> (<cost>, Time: 2m:20s)\nBombard Cannons +10 HP, +0/+1 armor, +10 attack, +50 vs Buildings, +10 extra vs Stone Defenses, +10 vs Ships & Heavy Siege, +0.2 blast radius. Requires Chemistry."
 28363 "Upgrade to <b>Siege Elephant<b> (<cost>, Time: 60s)\nArmored Elephants +40 HP, +0/+10 armor, +3 Cavalry & Elephant armor, +15 attack vs Buildings, +10 vs Siege, gain 1.5 blast radius and 33% trample damage."

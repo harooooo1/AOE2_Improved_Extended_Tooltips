@@ -201,8 +201,8 @@
 
 28096 "Potenzia in <b>Ariete coperto<b> (<cost>, Tempo: 50s)\nArieti +25 PV, +1/+10 corazza, +1 corazza ariete, +1 attacco, +10 contro costruzioni, assedio, ottengono 1.5 raggio d'esplosione."
 28263 "Potenzia in <b>Ariete da assedio<b> (<cost>, Tempo: 1m:15s)\nArieti +70 PV, +1/+5 corazza, +1 corazza ariete, +1 attacco, +40 contro costruzioni, +15 contro assedio, +0.5 raggio d'esplosione."
-28262 "Potenzia in <b>Onagro<b> (<cost>, Tempo: 1m:15s)\nMangani +10 PV, +0/+1 corazza, +10 attacco, +10 contro costruzioni e assedio pesante, +0.25 raggio d'esplosione, +1 gittata, +1 campo visivo. Permette all'unità di distruggere gli alberi."
-28323 "Potenzia in <b>Onagro d'assedio<b> (<cost>, Tempo: 2m:30s)\nOnagri +10 PV, +0/+1 corazza, +25 attacco, +15 contro costruzioni, +0.25 raggio d'esplosione."
+28262 "Potenzia in <b>Onagro<b> (<cost>, Tempo: 1m:15s)\nMangani +10 PV, +0/+2 corazza, +15 attacco, +10 contro costruzioni e assedio pesante, +0.25 raggio d'esplosione, +1 gittata, +1 campo visivo. Permette all'unità di distruggere gli alberi."
+28323 "Potenzia in <b>Onagro d'assedio<b> (<cost>, Tempo: 2m:30s)\nOnagri +10 PV, +20 attacco, +15 contro costruzioni, +0.25 raggio d'esplosione."
 28244 "Potenzia in <b>Scorpione pesante<b> (<cost>, Tempo: 50s)\nScorpioni +20 PV, +1/+1 corazza, +3 attacco, +3 contro elefanti, costruzioni, +1 contro fanteria, arieti."
 28353 "Potenzia in <b>Obice<b> (<cost>, Tempo: 2m:20s)\nBombarde +10 PV, +0/+1 corazza, +10 attacco, +50 contro costruzioni, +10 extra contro difese in pietra, +10 contro navi e assedio pesante, +0.2 raggio d'esplosione. Richiede chimica."
 28363 "Potenzia in <b>Elefante d'assedio<b> (<cost>, Tempo: 60s)\nElefanti corazzati +40 PV, +0/+10 corazza, +3 corazza cavalleria ed elefante, +15 attacco contro costruzioni, +10 contro assedio, ottengono 1.5 raggio d'esplosione e 33% danno da calpestamento."

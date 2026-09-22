@@ -198,8 +198,8 @@
 
 28096 "Mejorar a <b>Ariete cubierto<b> (<cost>, Tiempo: 50s)\nArietes +25 puntos de resistencia, +1/+10 armadura, +1 armadura de ariete, +1 de ataque, +10 contra Edificios, +10 contra Asedio, +1.5 de área de daño."
 28263 "Mejorar a <b>Ariete de asedio<b> (<cost>, Tiempo: 1m:15s)\nArietes +70 puntos de resistencia, +1/+5 armadura, +1 armadura de ariete, +1 de ataque, +40 contra Edificios, +15 contra Asedio, +0.5 de área de daño."
-28262 "Mejorar a <b>Onagro<b> (<cost>, Tiempo: 1m:15s)\nManganas +10 puntos de resistencia, +0/+1 armadura, +10 de ataque, +10 contra Edificios y Asedio pesado, +0.25 área de daño, +1 de rango, +1 de campo de visión. Permite destruir árboles a la unidad."
-28323 "Mejorar a <b>Onagro de asedio<b> (<cost>, Tiempo: 2m:30s)\nOnagros +10 puntos de resistencia, +0/+1 armadura, +25 de ataque, +15 contra Edificios, +0.25 área de daño."
+28262 "Mejorar a <b>Onagro<b> (<cost>, Tiempo: 1m:15s)\nManganas +10 puntos de resistencia, +0/+2 armadura, +15 de ataque, +10 contra Edificios y Asedio pesado, +0.25 área de daño, +1 de rango, +1 de campo de visión. Permite destruir árboles a la unidad."
+28323 "Mejorar a <b>Onagro de asedio<b> (<cost>, Tiempo: 2m:30s)\nOnagros +10 puntos de resistencia, +20 de ataque, +15 contra Edificios, +0.25 área de daño."
 28244 "Mejorar a <b>Escorpión pesado<b> (<cost>, Tiempo: 50s)\nEscorpiones +20 puntos de resistencia, +1/+1 armadura, +3 de ataque, +3 contra Elefantes, +2 contra Edificios, +1 contra Infantería y Arietes."
 28353 "Mejorar a <b>Obús<b> (<cost>, Tiempo: 2m:20s)\nCañones de asedio +10 puntos de resistencia, +0/+1 armadura, +10 de ataque, +50 contra Edificios, +10 extra contra Defensas de piedra, +10 contra Barcos y Asedio pesado, +0.2 área de daño. Requiere Química."
 28363 "Mejorar a <b>Elefante de asedio<b> (<cost>, Tiempo: 60s)\nElefantes blindados +40 puntos de resistencia, +0/+10 armadura, +3 armadura de Caballería y Elefante, +15 ataque contra Edificios, +10 contra Asedio, ganan 1.5 de área de daño y 33% de daño en área."
