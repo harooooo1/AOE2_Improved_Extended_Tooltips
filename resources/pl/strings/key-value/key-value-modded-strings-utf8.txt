@@ -82,6 +82,10 @@
 26514 "Create <b>Bolas Rider<b> (<cost>, Time: 34s)\nMapuche unique Mounted Archer with a charged attack that slows the target. Strong vs mounted units, good for hit-and-run. Weak vs archers, skirmishers. <GREY><DEFAULT>Attack Delay: 0.76, Accuracy: 90%, LoS: 7\nSpecial: Charged attack deals +2 damage and slows down the target by 15% for 10s\nCharge Time: 30s\nArmor Class: Archer, Cavalry, Cav Archer, Unique Unit\nAttack Bonus: +2 vs Cavalry, Camels, Rams\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.5 <MATERIAL=StatIconsReloadTime,1> 2"
 26515 "Create <b>Elite Bolas Rider<b> (<cost>, Time: 28s)\nMapuche unique Mounted Archer with a charged attack that slows the target. Strong vs mounted units, good for hit-and-run. Weak vs archers, skirmishers. Attack Delay: 0.76, Accuracy: 95%, LoS: 7\nSpecial: Charged attack deals +3 damage and slows down the target by 15% for 10s\nCharge Time: 30s\nArmor Class: Archer, Cavalry, Cav Archer, Unique Unit\nAttack Bonus: +3 vs Cavalry, Camels, +2 vs Rams\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.5 <MATERIAL=StatIconsReloadTime,1> 2"
 
+26527 "Create <b>Mounted Crossbowman<b> (<cost>, Time: 40s)\nMounted Archer with powerful but slow attack. Strong vs slow units at long range. Weak vs Skirmishers, Scorpions and units at close range. LoS: 6\nArmor Class: Archer, Cavalry, Cav Archer\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.25 <MATERIAL=StatIconsReloadTime,1> 2.5"
+26528 "Create <b>Heavy Mounted Crossbowman<b> (<cost>, Time: 30s)\nMounted Archer with powerful but slow attack. Strong vs slow units at long range. Weak vs Skirmishers, Scorpions and units at close range. LoS: 6\nArmor Class: Archer, Cavalry, Cav Archer\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.25 <MATERIAL=StatIconsReloadTime,1> 2.5"
+528008 "Upgrade to <b>Heavy Mounted Crossbowman<b> (<cost>, Time: 50s)\nUpgrades your Mounted Crossbowmen and lets you create Heavy Mounted Crossbowmen, which are stronger."
+
 28100 "Upgrade to <b>Crossbowman<b> (<cost>, Time: 35s)\nArchers -8s creation time, +5 HP, +1 attack, +1 range, +5% accuracy, +1 LoS."
 28233 "Upgrade to <b>Arbalester<b> (<cost>, Time: 50s)\nCrossbowmen +5 HP, +1 attack, +5% accuracy."
 28218 "Upgrade to <b>Heavy Cavalry Archer<b> (<cost>, Time: 50s)\nCavalry Archers -7s creation time, +10 HP, +1/+0 armor, +1 attack, +2 vs Spearmen, +30% accuracy, +1 LoS."
@@ -119,6 +123,10 @@
 26519 "Create <b>Elite Ibirapema Warrior<b> (<cost>, Time: 24s)\nTupi unique Infantry with a powerful frontal area attack. Strong vs melee units. Weak vs archers at long range. Attack Delay: 0.75, Blast Radius: 1 tile in line of attack [100% effect], LoS: 7\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +3 vs Shock Infantry, +2 vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1 <MATERIAL=StatIconsReloadTime,1> 2"
 26520 "Create <b>Temple Guard<b> (<cost>, Time: 28s / 25s Monastery)\nMuisca unique Shock Infantry that attacks faster the longer it remains in combat. Every attack reduces reload time by 0.2s for 5s, up to a minimum of 1.0 second reload time. Strong vs mounted units, buildings. Weak vs Militia-line. <GREY><DEFAULT>Attack Delay: 0.75, LoS: 7\nArmor Class: Infantry, Shock Infantry, Unique Unit\nAttack Bonus: +5 vs Cavalry, +3 extra vs Elephants, +2 vs Camels, Ships\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 0.95 <MATERIAL=StatIconsReloadTime,1> 2"
 26521 "Create <b>Elite Temple Guard<b> (<cost>, Time: 24s / 18s Monastery)\nMuisca unique Shock Infantry that attacks faster the longer it remains in combat. Every attack reduces reload time by 0.2s for 5s, up to a minimum of 1.0 second reload time. Strong vs mounted units, buildings. Weak vs Militia-line. Attack Delay: 0.75, LoS: 8\nArmor Class: Infantry, Shock Infantry, Unique Unit\nAttack Bonus: +8 vs Cavalry, +5 extra vs Elephants, +4 vs Camels, Ships, +2 vs Standard Buildings\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 0.95 <MATERIAL=StatIconsReloadTime,1> 2"
+
+26530 "Create <b>Varangian Guard<b> (<cost>, Time: 30s)\nPowerful Shock Infantry that generates gold when fighting other units. Strong vs Cavalry and buildings. Weak vs Militia-line. LoS: 7\nArmor Class: Infantry, Shock Infantry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.05 <MATERIAL=StatIconsReloadTime,1> 2"
+26531 "Create <b>Elite Varangian Guard<b> (<cost>, Time: 30s)\nPowerful Shock Infantry that generates gold when fighting other units. Strong vs Cavalry and buildings. Weak vs Militia-line. LoS: 8\nArmor Class: Infantry, Shock Infantry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <MATERIAL=StatIconsMovementSpeed,1> 1.05 <MATERIAL=StatIconsReloadTime,1> 2"
+528010 "Upgrade to <b>Elite Varangian Guard<b> (<cost>, Time: 50s)\nUpgrades your Varangian Guards and lets you create Elite Varangian Guards, which are stronger."
 
 28230 "Upgrade to <b>Man-at-Arms<b> (<cost>, Time: 40s)\nMilitia +5 HP, +2 attack, +3 vs Shock Infantry, +2 vs Standard Buildings, +0.06 move speed."
 28204 "Upgrade to <b>Long Swordsman<b> (<cost>, Time: 40s)\nMen-at-Arms +15 HP, +1/+0 armor, +3 attack, +5 vs Shock Infantry, +1 vs Standard Buildings."
@@ -520,6 +528,17 @@
 26517 "Create 2 <b>Elite Blackwood Archers<b> (<cost>, Time: 14s)\nTupi unique archer that is trained in pairs and takes only 0.5 population space. Strong in high numbers. Weak vs siege and units at close range. Attack Delay: 0.35, Accuracy: 90%, LoS: 6\nArmor Class: Archer, Unique Unit\nAttack Bonus: +2 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.1 <MATERIAL=StatIconsReloadTime,1> 1.5"
 28497 "Upgrade to <b>Elite Blackwood Archer<b> (<cost>, Time: 45s)\nBlackwood Archers -4s creation time, +5 HP, +10% accuracy."
 
+26532 "Create <b>Hearth Troop<b> (<cost>, Time: 16s)\nSaxon unique Infantry that throws a javelin before engaging in melee combat. Strong vs Ranged Soldiers. Weak vs Cavalry. LoS: 9\nArmor Class: Infantry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 2 <MATERIAL=StatIconsReloadTime,1> 0.9"
+26533 "Create <b>Elite Hearth Troop<b> (<cost>, Time: 14s)\nSaxon unique Infantry that throws a javelin before engaging in melee combat. Strong vs Ranged Soldiers. Weak vs Cavalry. LoS: 10\nArmor Class: Infantry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 2 <MATERIAL=StatIconsReloadTime,1> 0.9"
+528011 "Upgrade to <b>Elite Hearth Troop<b> (<cost>, Time: 45s)\nUpgrades your Hearth Troops and lets you create Elite Hearth Troops, which are stronger."
+
+26535 "Create <b>Jarl<b> (<cost>, Time: 23s)\nVarangian unique Cavalry with ranged melee attack. Exceptionally strong vs Infantry. Weak vs Camel Riders and Monks. LoS: 7\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.35 <MATERIAL=StatIconsReloadTime,1> 2"
+26537 "Create <b>Elite Jarl<b> (<cost>, Time: 23s)\nVarangian unique Cavalry with ranged melee attack. Exceptionally strong vs Infantry. Weak vs Camel Riders and Monks. LoS: 7\nArmor Class: Cavalry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 1.35 <MATERIAL=StatIconsReloadTime,1> 2"
+528014 "Upgrade to <b>Elite Jarl<b> (<cost>, Time: 45s)\nUpgrades your Jarls and lets you create Elite Jarls, which are stronger."
+
+26539 "Create <b>Jomsviking<b> (<cost>, Time: 10s)\nDanish unique Infantry that throws torches when attacking buildings and ships. Exceptionally strong vs Cavalry and buildings. Weak vs Ranged Soldiers. LoS: 7\nArmor Class: Infantry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 1.8"
+26541 "Create <b>Elite Jomsviking<b> (<cost>, Time: 10s)\nDanish unique Infantry that throws torches when attacking buildings and ships. Exceptionally strong vs Cavalry and buildings. Weak vs Ranged Soldiers. LoS: 7\nArmor Class: Infantry, Unique Unit\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 1.8"
+528017 "Upgrade to <b>Elite Jomsviking<b> (<cost>, Time: 45s)\nUpgrades your Jomsvikings and lets you create Elite Jomsvikings, which are stronger."
 
 28491 "Research <b>Herbalism<b> (<cost>, Time: 40s)\nArcher-line and Champi Warriors move +15% faster."
 28492 "Research <b>Huaracas<b> (<cost>, Time: 45s)\nSlingers +1 range; train +50% faster."
@@ -529,6 +548,13 @@
 
 28499 "Research <b>Caciques<b> (<cost>, Time: 45s)\nChampi Warriors and Slingers attack +25% faster."
 528000 "Research <b>Curare<b> (<cost>, Time: 45s)\nArchers and Fortifications deal poison damage (Archer-line 5 damage, Blackwood Archer 2 damage, Defensive buildings 7.5 damage) to enemy units over 15 seconds. The poison damage of every projectile stacks."
+
+528013 "Research <b>Shield Wall<b> (<cost>, Time: 45s)\nInfantry gain additional armor when massed."
+528015 "Research <b>Vendel Legacy<b> (<cost>, Time: 35s)\nKnight-line deals trample damage."
+528016 "Research <b>Gothikon<b> (<cost>, Time: 50s)\nVarangian Guards throw axes periodically."
+528018 "Research <b>Northmen's Fury<b> (<cost>, Time: 40s)\nMangonel-line and Catapult Galleons +1 range; Siege Weapons and Siege Warships +40% attack vs buildings."
+528019 "Research <b>Hamask<b> (<cost>, Time: 35s)\nInfantry deal more damage as they lose HP."
+528020 "Research <b>Clerical Recruitment<b> (<cost>, Time: 35s)\nMonks +1 conversion range; train +33% faster."
 
 528003 "Research <b>Clinker Construction<b> (<cost>, Time: 50s)\nShips move +10% faster."
 528004 "Research <b>Carvel Hull<b> (<cost>, Time: 60s)\nShips move +10% faster."
@@ -568,6 +594,7 @@
 
 28411 "Research <b>Thumb Ring<b> (<cost>, Time: 45s)\nArchers, cavalry archers, skirmishers gain 100% accuracy vs stationary targets.\nAll archer & cavalry archer units fire 18% faster except the following: Chu Ko Nu 25%; Cavalry Archer, War Wagon 11%; Slinger 0%"
 28415 "Research <b>Parthian Tactics<b> (<cost>, Time: 65s)\nCavalry archer units +1/+2 armor, +2 attack vs Spearmen."
+528024 "Research <b>Cranequins<b> (<cost>, Time: 70s)\nMounted Crossbowmen +1 range; +2 attack vs Infantry."
 
 28409 "Research <b>Bloodlines<b> (<cost>, Time: 50s)\nMounted units +20 HP."
 28039 "Research <b>Husbandry<b> (<cost>, Time: 40s)\nMounted units move 10% faster."
