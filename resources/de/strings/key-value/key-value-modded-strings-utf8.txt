@@ -288,7 +288,7 @@
 
 28034 "Aufwertung zu <b>Kriegsgaleere, Kriegs-Hulk, Feuerschiff<b> (<cost>, Zeit: 50s)\n• Galeeren -18s Bauzeit, +15 LP, +1 Reichweite, +1 Angriffsstärke, +0/+1 Rüstung, +1 Sichtweite.\n• Feuergaleeren -22s Bauzeit, +10 LP, +1/+0 Rüstung, +1 Angriffsstärke, +1 gegen Gebäude, +0,11 Bewegungsgeschwindigkeit.\n• Hulks: -15s Bauzeit, +25 LP, -0,25s Nachladezeit (greift 16% schneller an), +1/0 Rüstung."
 28035 "Aufwertung zu <b>Galeone, Karacke, Schnelles Feuerschiff<b> (<cost>, Zeit: 65s)\n• Kriegsgaleeren +30 LP, +0/+2 Rüstung, +1 Reichweite, +2 Angriffsstärke, +4 gegen Fernkampf-Kriegsschiffe, +1 Sichtweite.\n• Kriegs-Hulks +20 LP, +0,1 Geschwindigkeit, +1/0 Rüstung, +1 Sichtweite.\n• Feuerschiffe +20 LP, +1 Angriffsstärke, +0,09 Bewegungsgeschwindigkeit, +1/+3 Rüstung, +1 Sichtweite. (Chinesische Drachenschiffe +15 LP, +0,5 Reichweite, +2 Angriffsstärke, +1 gegen Gebäude, +0,1 Bewegungsgeschwindigkeit, +1/+3 Rüstung, +1 Sichtweite)"
-528002 "Aufwertung zum <b>Sprengschiff<b> (<cost>, Zeit: 50s)\nSprengflöße -14s Bauzeit, +10 LP, +1/0 Rüstung, +20 Angriffsstärke, +40 gegen Gebäude, +0,5 Explosionsradius, +0,1 Bewegungsgeschwindigkeit."
+528002 "Aufwertung zum <b>Sprengschiff<b> (<cost>, Zeit: 20s)\nSprengflöße -14s Bauzeit, +10 LP, +1/0 Rüstung, +20 Angriffsstärke, +40 gegen Gebäude, +0,5 Explosionsradius, +0,1 Bewegungsgeschwindigkeit."
 28242 "Aufwertung zum <b>Schweren Sprengschiff<b> (<cost>, Zeit: 50s)\nSprengschiffe +20 LP, +1/0 Rüstung, +25 Angriffsstärke, +60 gegen Gebäude, +0,25 Explosionsradius."
 
 28240 "Aufwertung zur <b>Elite-Karavelle<b> (<cost>, Zeit: 48s*)\nKaravellen +24 LP, +0/+1 Rüstung, +3 Angriffsstärke, +2 gegen Fernkampf-Kriegsschiffe, +1 Reichweite."

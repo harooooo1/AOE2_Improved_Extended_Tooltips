@@ -535,7 +535,7 @@
 28499 "Investigar <b>Caciques<b> (<cost>, Tiempo: 45s)\nGuerrero Champis y Honderos atacan +25% más rápido."
 528000 "Investigar <b>Curare<b> (<cost>, Tiempo: 45s)\nLos arqueros a pie y las fortificaciones infligen daño de veneno (línea de arqueros 5 de daño, Arquero de los bosques 2 de daño, edificios defensivos 7.5 de daño) a unidades enemigas por 15 segundos. El daño de veneno de cada proyectil se acumula."
 
-528002 "Mejorar <b>Barco de Demolición<b> (<cost>, Tiempo: 50s)\nBalsas de Demolición -14s tiempo de construcción, +0.1 velocidad de movimiento, +10 puntos de resistencia, +0.5 área de daño, +20 de ataque, +40 contra Edificios, +1/0 armadura."
+528002 "Mejorar <b>Barco de Demolición<b> (<cost>, Tiempo: 20s)\nBalsas de Demolición -14s tiempo de construcción, +0.1 velocidad de movimiento, +10 puntos de resistencia, +0.5 área de daño, +20 de ataque, +40 contra Edificios, +1/0 armadura."
 528003 "Investigar <b>Construcción de cascos a tingladillo<b> (<cost>, Tiempo: 50s)\nLos barcos se mueven un +10% más rápido."
 528004 "Investigar <b>Casco liso<b> (<cost>, Tiempo: 60s)\nLos barcos se mueven un +10% más rápido."
 528005 "Investigar <b>Hilo de pesca<b> (<cost>, Tiempo: 20s)\nLos barcos pesqueros recolectan +10% más rápido y llevan +5 recursos."
