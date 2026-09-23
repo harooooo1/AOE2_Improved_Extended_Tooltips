@@ -553,7 +553,7 @@
 528015 "Sviluppa <b>Eredità di Vendel<b> (<cost>, Tempo: 35s)\nLa linea dei cavalieri ottiene danni da calpestio (gli attacchi infliggono 5 danni alle unità attorno al bersaglio in un raggio di 0,5 caselle)."
 528016 "Sviluppa <b>Gothikon<b> (<cost>, Tempo: 50s)\nLe Guardie Variaghe lanciano asce periodicamente (2 proiettili, 3 gittata, danno da corpo a corpo, 30s di ricarica per proiettile)."
 528018 "Sviluppa <b>Furia dei Norreni<b> (<cost>, Tempo: 40s)\nLinea dei mangani e galeoni con catapulta +1 gittata; armi d'assedio e navi d'assedio +40% attacco contro costruzioni."
-528019 "Sviluppa <b>Hamask<b> (<cost>, Tempo: 35s)\nLa fanteria infligge più danni man mano che perde PV."
+528019 "Sviluppa <b>Hamask<b> (<cost>, Tempo: 35s)\nLa fanteria ottiene più attacco quando ferita (+1 attacco per ogni 10% di PV mancanti, max +9, colpisce solo unità e Torri)."
 528020 "Sviluppa <b>Reclutamento Clericale<b> (<cost>, Tempo: 35s)\nMonaci +1 gittata di conversione; vengono addestrati il +33% più velocemente."
 
 528003 "Sviluppa <b>Fasciame sovrapposto<b> (<cost>, Tempo: 50s)\nLe navi si muovono il +10% più velocemente."

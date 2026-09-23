@@ -559,7 +559,7 @@
 528015 "Investigar <b>Legado de Vendel<b> (<cost>, Tiempo: 35s)\nLa línea de caballeros obtiene daño de pisoteo (los ataques infligen 5 de daño a unidades alrededor del objetivo en un radio de 0.5 casillas)."
 528016 "Investigar <b>Gothikon<b> (<cost>, Tiempo: 50s)\nLos Guardias Varegos lanzan hachas periódicamente (2 proyectiles, 3 de rango, daño cuerpo a cuerpo, 30s de recarga por proyectil)."
 528018 "Investigar <b>Furia de los Nórdicos<b> (<cost>, Tiempo: 40s)\nLínea de Mangoneles y Galeones con Catapulta +1 rango; Armas de asedio y Barcos de asedio +40% de ataque contra edificios."
-528019 "Investigar <b>Hamask<b> (<cost>, Tiempo: 35s)\nLa infantería causa más daño cuantos menos puntos de resistencia tenga."
+528019 "Investigar <b>Hamask<b> (<cost>, Tiempo: 35s)\nLa infantería gana más ataque cuando está herida (+1 de ataque por cada 10% de puntos de resistencia faltantes, máx. +9, solo afecta ataques contra unidades y Torres)."
 528020 "Investigar <b>Reclutamiento Clerical<b> (<cost>, Tiempo: 35s)\nMonjes +1 rango de conversión; se crean +33% más rápido."
 
 528002 "Mejorar <b>Barco de Demolición<b> (<cost>, Tiempo: 20s)\nBalsas de Demolición -14s tiempo de construcción, +0.1 velocidad de movimiento, +10 puntos de resistencia, +0.5 área de daño, +20 de ataque, +40 contra Edificios, +1/0 armadura."

@@ -550,7 +550,7 @@
 528015 "Erforsche <b>Vendel-Erbe<b> (<cost>, Zeit: 35s)\nRitter-Linie erhält Trampelschaden (Angriffe verursachen 5 Schaden an Einheiten um das Ziel in einem Radius von 0,5 Feldern)."
 528016 "Erforsche <b>Gothikon<b> (<cost>, Zeit: 50s)\nWarägergarden werfen periodisch Äxte (2 Projektile, 3 Reichweite, Nahkampfschaden, 30s Abklingzeit pro Projektil)."
 528018 "Erforsche <b>Zorn der Nordmänner<b> (<cost>, Zeit: 40s)\nMangonel-Linie und Katapult-Galeonen +1 Reichweite; Belagerungswaffen und Belagerungsschiffe +40% Angriffsstärke gegen Gebäude."
-528019 "Erforsche <b>Hamask<b> (<cost>, Zeit: 35s)\nInfanterie verursacht mehr Schaden je mehr LP sie verliert."
+528019 "Erforsche <b>Hamask<b> (<cost>, Zeit: 35s)\nInfanterie erhält mehr Angriffsstärke wenn verletzt (+1 Angriffsstärke pro 10% fehlende LP, max. +9, wirkt nur gegen Einheiten und Türme)."
 528020 "Erforsche <b>Klerikale Rekrutierung<b> (<cost>, Zeit: 35s)\nMönche +1 Bekehrungsreichweite; werden +33% schneller ausgebildet."
 
 528003 "Erforsche <b>Klinkerbauweise<b> (<cost>, Zeit: 50s)\nSchiffe bewegen sich +10% schneller."

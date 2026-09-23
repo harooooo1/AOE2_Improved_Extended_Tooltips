@@ -553,7 +553,7 @@
 528015 "Research <b>Vendel Legacy<b> (<cost>, Time: 35s)\nKnight-line gains trample damage (attacks deal 5 damage to units around target in a 0.5 tile radius)."
 528016 "Research <b>Gothikon<b> (<cost>, Time: 50s)\nVarangian Guards throw axes periodically (2 projectiles, 3 range, melee damage, 30s cooldown per projectile)."
 528018 "Research <b>Northmen's Fury<b> (<cost>, Time: 40s)\nMangonel-line and Catapult Galleons +1 range; Siege Weapons and Siege Warships +40% attack vs buildings."
-528019 "Research <b>Hamask<b> (<cost>, Time: 35s)\nInfantry deal more damage as they lose HP."
+528019 "Research <b>Hamask<b> (<cost>, Time: 35s)\nInfantry gain more attack when injured (+1 attack for every 10% HP missing, max +9, only affects attacks vs units and Towers)."
 528020 "Research <b>Clerical Recruitment<b> (<cost>, Time: 35s)\nMonks +1 conversion range; train +33% faster."
 
 528003 "Research <b>Clinker Construction<b> (<cost>, Time: 50s)\nShips move +10% faster."
