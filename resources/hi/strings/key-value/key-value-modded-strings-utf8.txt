@@ -58,6 +58,9 @@
 120207 "Cavalry & Counter-Units civilization\n\n• Foragers drop off +25% food\n• Settlements can train Spearman-line and Skirmishers\n• Infantry, Slingers and Skirmishers +5/10/15 HP in Feudal/Castle/Imperial Age\n• Mounted Units generate +3 gold when defeating military units\n• Enemy Castles are revealed on the map\n\n<b>Unique Units:<b>\n• Kona (Cavalry), Bolas Rider (Mounted Archer)\n\n<b>Unique Techs:<b>\n• Malon (Bolas Riders, Slingers and Skirmishers deal pass-through damage)\n• Butalmapu (Team Castle Unique Units and Bolas Riders cost -15%)\n\n<b>Team Bonus:<b>\n• Spearman-line and Skirmishers +2 LoS"//mapuche
 120208 "Archer & Infantry civilization\n\n• Start with +25 of each resource\n• Villagers can garrison in Settlements\n• Fallen units return 15% of their cost\n• Archery Range and Barracks upgrades cost -50% food\n\n<b>Unique Units:<b>\n• Blackwood Archer (archer, trained in pairs), Ibirapema Warrior (Infantry)\n\n<b>Unique Techs:<b>\n• Caciques (Champi Warriors and Slingers attack +25% faster)\n• Curare (Archers and Fortifications deal poison damage)\n\n<b>Team Bonus:<b>\n• Towers and Castles provide +10 population space"//tupi
 
+120209 "Infantry & Defensive civilization\n\n• Mills, Lumber- and Mining Camps provide +35 food and +10 stone when built\n• Foot Soldiers cost -5% per Town Center or Castle controlled (max -20%)\n• Towers and Castles fire +100% base arrows starting in Castle Age\n• Longships and Catapult Galleons +20% HP\n\n<b>Unique Units:<b>\n• Hearth Troop (Infantry)\n\n<b>Unique Techs:<b>\n• Clerical Recruitment (Monks +1 conversion range; train +33% faster)\n• Shield Wall (Infantry gain additional armor when massed)\n\n<b>Team Bonus:<b>\n• Repairers work +25% faster"//saxon
+120210 "Cavalry & Naval civilization\n\n• Shepherding, fishing, and hunting also generate gold\n• Bloodlines and Caravan effects +50%\n• Varangian Guards attack +25% faster and generate +50% gold\n• Longships and Catapult Galleons attack +15% faster\n\n<b>Unique Units:<b>\n• Jarl (Cavalry)\n\n<b>Unique Techs:<b>\n• Vendel Legacy (Knight-line deals trample damage)\n• Gothikon (Varangian Guards throw axes periodically)\n\n<b>Team Bonus:<b>\n• Knight-line +1 attack vs Infantry"//varangian
+120211 "Infantry & Siege civilization\n\n• Fishing Ships and Villagers drop off +5% food\n• Loot 25% of the resource cost of each destroyed building\n• Barracks and Siege Workshop upgrades cost -66% gold\n• Varangian Guards and Longships move +10% faster\n\n<b>Unique Units:<b>\n• Jomsviking (Infantry)\n\n<b>Unique Techs:<b>\n• Hamask (Infantry deal more damage as they lose HP)\n• Northmen's Fury (Mangonel-line and Catapult Galleons +1 range; Siege Weapons and Siege Warships +40% attack vs buildings)\n\n<b>Team Bonus:<b>\n• Siege Weapons +2 LoS"//dane
 
 26083 "Create <b>Archer<b> (<cost>, Time: 35s)\nBasic archer. Strong in masses, excels at long range. Weak vs skirmishers. Attack Delay: 0.35, Accuracy: 80%, LoS: 6\nArmor Class: Archer\nAttack Bonus: +3 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 2"
 26084 "Create <b>Crossbowman<b> (<cost>, Time: 27s)\nBasic archer. Strong in masses, excels at long range. Weak vs skirmishers, siege. Attack Delay: 0.35, Accuracy: 85%, LoS: 7\nArmor Class: Archer\nAttack Bonus: +3 vs Spearmen\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 2"
@@ -540,29 +543,6 @@
 26541 "Create <b>Elite Jomsviking<b> (<cost>, Time: 10s)\nDanish unique Infantry that throws torches when attacking buildings and ships (3 range). Exceptionally strong vs Cavalry and buildings. Weak vs Ranged Soldiers. Melee Attack Delay: 0.75, Ranged Attack Delay: 1, LoS: 7\nArmor Class: Infantry, Unique Unit\nAttack Bonus: +15 vs Cavalry, +15 extra vs Elephants, +12 vs Camels, +9 vs Standard Buildings, +2 vs Shock Infantry\n<hp> <attack> <armor> <piercearmor> <range> <MATERIAL=StatIconsMovementSpeed,1> 0.96 <MATERIAL=StatIconsReloadTime,1> 1.8"
 528017 "Upgrade to <b>Elite Jomsviking<b> (<cost>, Time: 45s)\nJomsvikings +5 HP, +1 attack, +5 vs Cavalry, +5 extra vs Elephants, +4 vs Camels, +3 vs Standard Buildings."
 
-28491 "Research <b>Herbalism<b> (<cost>, Time: 40s)\nArcher-line and Champi Warriors move +15% faster."
-28492 "Research <b>Huaracas<b> (<cost>, Time: 45s)\nSlingers +1 range; train +50% faster."
-
-28495 "Research <b>Malon<b> (<cost>, Time: 40s)\nBolas Riders, Slingers and Skirmishers deal +30% pass-through damage."
-28496 "Research <b>Butalmapu<b> (<cost>, Time: 45s)\nTeam Castle Unique Units and Bolas Riders cost -15%."
-
-28499 "Research <b>Caciques<b> (<cost>, Time: 45s)\nChampi Warriors and Slingers attack +25% faster."
-528000 "Research <b>Curare<b> (<cost>, Time: 45s)\nArchers and Fortifications deal poison damage (Archer-line 5 damage, Blackwood Archer 2 damage, Defensive buildings 7.5 damage) to enemy units over 15 seconds. The poison damage of every projectile stacks."
-
-528013 "Research <b>Shield Wall<b> (<cost>, Time: 45s)\nInfantry gain +1/+1 armor for every 15 nearby Infantry units (max +3/+3)."
-528015 "Research <b>Vendel Legacy<b> (<cost>, Time: 35s)\nKnight-line gains trample damage (attacks deal 5 damage to units around target in a 0.5 tile radius)."
-528016 "Research <b>Gothikon<b> (<cost>, Time: 50s)\nVarangian Guards throw axes periodically (2 projectiles, 3 range, melee damage, 30s cooldown per projectile)."
-528018 "Research <b>Northmen's Fury<b> (<cost>, Time: 40s)\nMangonel-line and Catapult Galleons +1 range; Siege Weapons and Siege Warships +40% attack vs buildings."
-528019 "Research <b>Hamask<b> (<cost>, Time: 35s)\nInfantry gain more attack when injured (+1 attack for every 10% HP missing, max +9, only affects attacks vs units and Towers)."
-528020 "Research <b>Clerical Recruitment<b> (<cost>, Time: 35s)\nMonks +1 conversion range; train +33% faster."
-
-528003 "Research <b>Clinker Construction<b> (<cost>, Time: 50s)\nShips move +10% faster."
-528004 "Research <b>Carvel Hull<b> (<cost>, Time: 60s)\nShips move +10% faster."
-528005 "Research <b>Fishing Lines<b> (<cost>, Time: 20s)\nFishing Ships gather +10% faster and carry +5."
-528006 "Research <b>Siphons<b> (<cost>, Time: 45s)\nFire Ships gain an explosive charge attack."
-528007 "Research <b>Incendiaries<b> (<cost>, Time: 50s)\nFire Ships detonate when sunk, gaining blast radius."
-
-
 528030 "Select for Trade ships to return 0% wood and 100% gold from trading."
 528032 "Select for Trade ships to return 50% wood and 50% gold from trading."
 528034 "Select for Trade ships to return 100% wood and 0% gold from trading."
@@ -643,6 +623,10 @@
 28054 "Research <b>Treadmill Crane<b> (<cost>, Time: 20s)\nVillagers construct buildings 20% faster."
 28050 "Research <b>Masonry<b> (<cost>, Time: 50s)\nAll buildings (except walls) +10% HP, +1/+1 armor, +3 Building armor."
 28051 "Research <b>Architecture<b> (<cost>, Time: 1m:10s)\nAll buildings (except walls) +10% HP, +1/+1 armor, +3 Building armor."
+528003 "Research <b>Clinker Construction<b> (<cost>, Time: 50s)\nShips move +10% faster."
+528004 "Research <b>Carvel Hull<b> (<cost>, Time: 60s)\nShips move +10% faster."
+528006 "Research <b>Siphons<b> (<cost>, Time: 45s)\nFire Ships gain an explosive charge attack."
+528007 "Research <b>Incendiaries<b> (<cost>, Time: 50s)\nFire Ships detonate when sunk, gaining blast radius."
 
 28221 "Research <b>Sanctity<b> (<cost>, Time: 60s)\nMonks +15 HP."
 28222 "Research <b>Block Printing<b> (<cost>, Time: 55s)\nMonks +3 conversion range & line of sight."
@@ -660,6 +644,7 @@
 28372 "Research <b>Careening<b> (<cost>, Time: 50s)\nShips +1 pierce armor."
 28373 "Research <b>Dry Dock<b> (<cost>, Time: 60s)\nShips +1 pierce armor."
 28314 "Research <b>Gillnets<b> (<cost>, Time: 45s)\nFishing Ships work +10% faster and carry +5."
+528005 "Research <b>Fishing Lines<b> (<cost>, Time: 20s)\nFishing Ships gather +10% faster and carry +5."
 
 28319 "Research <b>Conscription<b> (<cost>, Time: 60s)\nBarracks, Archery Ranges, Stables & Castles work 33% faster."
 28376 "Research <b>Hoardings<b> (<cost>, Time: 1m:15s)\nCastles (and Sicilian Donjons) gain +1000 HP."
@@ -765,6 +750,18 @@
 28481 "Research <b>Sitting Tiger<b> (<cost>, Time: 40s)\nTraction Trebuchets and Lou Chuan trebuchet weapons fire additional projectiles."
 28473 "Research <b>Tuntian<b> (<cost>, Time: 40s)\nSoldiers passively produce food (1.8 food/min per soldier)."
 28474 "Research <b>Ming Guang Armor<b> (<cost>, Time: 65s)\nMounted Units +4 melee armor."
+28491 "Research <b>Herbalism<b> (<cost>, Time: 40s)\nArcher-line and Champi Warriors move +15% faster."
+28492 "Research <b>Huaracas<b> (<cost>, Time: 45s)\nSlingers +1 range; train +50% faster."
+28495 "Research <b>Malon<b> (<cost>, Time: 40s)\nBolas Riders, Slingers and Skirmishers deal +30% pass-through damage."
+28496 "Research <b>Butalmapu<b> (<cost>, Time: 45s)\nTeam Castle Unique Units and Bolas Riders cost -15%."
+28499 "Research <b>Caciques<b> (<cost>, Time: 45s)\nChampi Warriors and Slingers attack +25% faster."
+528000 "Research <b>Curare<b> (<cost>, Time: 45s)\nArchers and Fortifications deal poison damage (Archer-line 5 damage, Blackwood Archer 2 damage, Defensive buildings 7.5 damage) to enemy units over 15 seconds. The poison damage of every projectile stacks."
+528013 "Research <b>Shield Wall<b> (<cost>, Time: 45s)\nInfantry gain +1/+1 armor for every 15 nearby Infantry units (max +3/+3)."
+528015 "Research <b>Vendel Legacy<b> (<cost>, Time: 35s)\nKnight-line gains trample damage (attacks deal 5 damage to units around target in a 0.5 tile radius)."
+528016 "Research <b>Gothikon<b> (<cost>, Time: 50s)\nVarangian Guards throw axes periodically (2 projectiles, 3 range, melee damage, 30s cooldown per projectile)."
+528018 "Research <b>Northmen's Fury<b> (<cost>, Time: 40s)\nMangonel-line and Catapult Galleons +1 range; Siege Weapons and Siege Warships +40% attack vs buildings."
+528019 "Research <b>Hamask<b> (<cost>, Time: 35s)\nInfantry gain more attack when injured (+1 attack for every 10% HP missing, max +9, only affects attacks vs units and Towers)."
+528020 "Research <b>Clerical Recruitment<b> (<cost>, Time: 35s)\nMonks +1 conversion range; train +33% faster."
 
 41072 "Click to <b>sell<b> 100 wood for %d gold\nGold gained decreases with each click. SHIFT + click to sell 500 wood."
 41073 "Click to <b>sell<b> 100 food for %d gold\nGold gained decreases with each click. SHIFT + click to sell 500 food."
