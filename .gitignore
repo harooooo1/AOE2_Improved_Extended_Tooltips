@@ -6,3 +6,6 @@ __pycache__/
 
 # Community unit data from github.com/SiegeEngineers/aoe2techtree (data/data.json) - reference only
 dont-commit-techtree-data/
+
+# Name review lists for translators (shared privately, not part of the mod)
+dont-commit-name-review/

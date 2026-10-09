@@ -29,6 +29,7 @@ AOE2_Improved_Extended_Tooltips/
 ├── .gitignore                                   # Excludes the two dont-commit-* folders
 ├── dont-commit-original-game-files/             # (gitignored, maintainer's PC only) official game strings
 ├── dont-commit-techtree-data/                   # (gitignored) aoe2techtree data.json for stat checks
+├── dont-commit-name-review/                    # (gitignored) name review lists sent to translators
 ├── tools/
 │   ├── validate.py                              # Consistency checker - run before every commit
 │   └── number_exceptions.txt                    # Known wording-only number differences
@@ -301,6 +302,16 @@ Every unit with the **Infantry** armor class gets **+2 LoS** from **Tracking**, 
 
 When updating infantry LoS from patch notes or game data (which list the base value), **add the +2** - and do not "correct" an infantry LoS back down to the base value.
 
+### Range and LoS are always stated separately
+
+Range and LoS often change together, but **not always**, so a tooltip never relies on "range implies LoS":
+
+- **If LoS changes, it is written out**, e.g. Fletching "+1 range, +1 LoS", Crenellations "+3 range, +3 LoS", Elite Throwing Axeman "+2 range, +2 LoS".
+- **If LoS is not mentioned, it does not change.** Examples where only range goes up: Greek Fire, Elite Bolas Rider, Elite Caravel, Elite Janissary, Elite Plumed Archer, Elite Rattan Archer, Elite Jarl. No "LoS unchanged" note is needed.
+- Effects that add LoS **without** range are written out too: Fletching/Bodkin Arrow/Bracer give Town Centers "+1 attack, +1 LoS (no range)"; Siege Engineers gives Rams & Siege Towers "+1 LoS".
+
+When adding a new tech or upgrade that changes range, check the LoS effect separately (in-game or in the Advanced Genie Editor) - don't assume it.
+
 ### `*` = civ bonus already applied
 
 When a unit or tech belongs to one civ (unique units, unique techs, civ-specific buildings) and a civ bonus of that civ **always** affects a stat, the tooltip shows the value **with the bonus applied and marked with `*`**. Examples:
@@ -338,6 +349,7 @@ The `.gitignore` file excludes:
 ```
 dont-commit-original-game-files/
 dont-commit-techtree-data/
+dont-commit-name-review/
 __pycache__/
 ```
 
@@ -409,5 +421,6 @@ When working on this project:
 8. **Only commit and push when the maintainer asks you to**, and report what you changed per language
 9. **Infantry LoS includes +2 from Tracking** (free automatic Feudal Age tech) - see "Game Mechanics Notes"
 10. **`*` marks a value with a civ bonus always applied** - keep it, and add it where it's missing
+11. **Range and LoS are stated separately** - if LoS changes, write it; if it isn't written, it doesn't change
 
 This mod requires careful attention to multi-language consistency and adherence to official Age of Empires 2: DE terminology for the best user experience.
