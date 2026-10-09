@@ -1,0 +1,17 @@
+# Known, intentional number differences between EN and a translation.
+# Format: <lang> <id> <signature exactly as printed by validate.py>
+# An exception stops matching as soon as the difference changes (e.g. EN gets a new stat),
+# so the entry is reported again and has to be re-checked.
+
+# "30k" vs "30.000"
+de 41113 EN:30 TR:30.000
+it 41113 EN:30 TR:30.000
+es 41113 EN:30 TR:30.000
+# "kill wolves in 1 hit" written without the digit
+de 120171 EN:1 TR:
+it 120171 EN:1 TR:
+# "block 1 attack" written as "einen Angriff"
+de 26594 EN:1 TR:
+de 26595 EN:1 TR:
+# "2x wood cost" written as "das Doppelte an Holz"
+de 4927 EN:2 TR:

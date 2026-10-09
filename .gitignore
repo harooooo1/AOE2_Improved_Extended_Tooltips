@@ -1,2 +1,5 @@
 # Original game files - do not commit
 dont-commit-original-game-files/
+
+# Python cache
+__pycache__/
