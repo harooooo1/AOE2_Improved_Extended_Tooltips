@@ -9,3 +9,6 @@ dont-commit-techtree-data/
 
 # Name review lists for translators (shared privately, not part of the mod)
 dont-commit-name-review/
+
+# Changelog drafts (shared privately)
+dont-commit-changelogs/

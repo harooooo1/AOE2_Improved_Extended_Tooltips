@@ -30,6 +30,7 @@ AOE2_Improved_Extended_Tooltips/
 ├── dont-commit-original-game-files/             # (gitignored, maintainer's PC only) official game strings
 ├── dont-commit-techtree-data/                   # (gitignored) aoe2techtree data.json for stat checks
 ├── dont-commit-name-review/                    # (gitignored) name review lists sent to translators
+├── dont-commit-changelogs/                     # (gitignored) changelog drafts for releases
 ├── tools/
 │   ├── validate.py                              # Consistency checker - run before every commit
 │   └── number_exceptions.txt                    # Known wording-only number differences
@@ -129,6 +130,13 @@ Typical unit entry layout: `Create/Build <b>Name<b> (<cost>, Time: Xs)` → desc
 
 Translations must contain exactly the same tags and `\n` line breaks, in the same order, as EN (`tools/validate.py` checks this).
 
+### Writing Conventions
+
+- **Group targets that share the same number:** "+4 vs Gunpowder, Monks" instead of "+4 vs Gunpowder, +4 vs Monks"; "+3 vs Elephants, Buildings".
+- **"extra"** marks a bonus that stacks on another one the target also gets, e.g. "+15 vs Cavalry, +15 extra vs Elephants" (elephants are cavalry too).
+- **Age-dependent values** are written with slashes plus the ages, e.g. "+3/4 vs Ships in Castle/Imperial Age".
+- **Upgrades and techs list only what changes**, not stats that stay the same (e.g. Thalassocracy lists the Harbor's extra HP/armor/range/LoS, not its attack, which equals the Dock's).
+
 ### Tag Positioning Rules
 
 `<GREY><DEFAULT>` separates the **general description** from **conditional or special information** (e.g. "Charged attack doesn't work vs buildings", "Gains +5 HP in Imperial Age (civ bonus)"). It goes directly **before** that conditional text, separated from the previous sentence by a space (not `\n`).
@@ -188,18 +196,26 @@ python tools/validate.py --sync
 
 ## Translation Guidelines
 
-### Using Official Game Translations
+### Unit, Building & Tech Names
 
-When updating tooltips for new units, technologies, or civilizations, **always reference the official Age of Empires 2: DE translations** from the game files. This ensures consistency with the base game.
+The game shows the **official** name on buttons and in the selection panel - the mod only replaces the help text. So the official names (from the game files) are the **reference**:
 
-**DO NOT** invent translations or rely purely on AI without verification for proper nouns (unit names, technology names, civilization names).
+- **Default:** use the official name. If the official name is abbreviated to fit the UI (e.g. ES "Espad. espada larga"), use the full form.
+- **Deliberate corrections are allowed** where the official name is clearly wrong or misleading (e.g. DE official "Feuerlanzenreiter" = fire lance *rider*, but the unit is infantry → the mod uses "Feuer-Lanzenträger"). Keep such established mod names.
+- **Never allowed:**
+  - a name that is the **official name of a different** unit/tech (e.g. ES once called the Watch Tower "Torre de guardia", which is officially the Guard Tower)
+  - two different things with the **same** name (ES once used "Huaracas" for both Andean Sling and the Muisca tech)
+  - a name with the **wrong meaning** (ES "Fanatismo" for Bimaristan) or a typo
+- **One name per thing:** the unit/tech's own tooltip, its upgrade tooltip and the civ description must all use the same name.
+- **Do not invent** names with AI. New names come from the official files, or are agreed with the language's reviewer.
+- Name changes in DE/ES/IT are reviewed by native speakers first (ES: hebygamer). Review lists live in the gitignored `dont-commit-name-review/` folder.
 
 ### Translation Verification Process
 
 1. Check the `dont-commit-original-game-files/` folder for official translations (this folder is gitignored)
 2. Search for the English term in official game files
 3. Find corresponding DE/ES/IT translations
-4. Use official translations for proper nouns
+4. Use the official name for proper nouns, unless the language file already has an established deliberate name for it (see above)
 5. Use AI-assisted translation for descriptive text and stats
 
 ### Example: Viking Sagas DLC
@@ -212,9 +228,9 @@ When the Viking Sagas DLC was added:
 
 ### AI Translation Quality Notes
 
-- **German translations:** Generally reliable for game terminology
-- **Spanish translations:** Mix of collaborator style + AI, pay attention to consistency
-- **Italian translations:** Verify technical terms against official sources
+- **German translations:** Descriptions are fine, but many unit/tech **names** were invented by AI instead of taken from the game (e.g. Keep "Bergfried" vs official "Hauptturm"). A cleanup of ~60 names is pending a native speaker's review - don't add new invented names.
+- **Spanish translations:** Mix of collaborator style + AI. Some names differ between a unit's tooltip and the civ descriptions; these are under review with hebygamer.
+- **Italian translations:** Verify technical terms against official sources; a name review is pending.
 
 ## Common Update Types
 
@@ -350,6 +366,7 @@ The `.gitignore` file excludes:
 dont-commit-original-game-files/
 dont-commit-techtree-data/
 dont-commit-name-review/
+dont-commit-changelogs/
 __pycache__/
 ```
 
@@ -414,7 +431,7 @@ When working on this project:
 1. **Always update all 4 primary languages** (EN, DE, ES, IT) for any tooltip changes, in the same commit
 2. **Update every entry a stat appears in** (unit, elite unit, upgrade tech, civ description) - search the whole EN file
 3. **Translate from the current EN text**, not from the official civ descriptions or an older translation
-4. **Use official game translations** for proper nouns (verify in original game files)
+4. **Use official names** for units/techs (verify in original game files), except established deliberate corrections; never reuse another unit's official name, and use one name per thing everywhere
 5. **Maintain formatting consistency** across all language files (same order, tags, `\n`, bullets as EN)
 6. **Position tags correctly** (`<GREY><DEFAULT>` before conditional/special text)
 7. **Run `python tools/validate.py --sync` and make sure it prints `OK`** before committing - never silence an error by adding an exception unless the difference is pure wording
