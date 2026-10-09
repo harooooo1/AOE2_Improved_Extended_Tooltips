@@ -29,7 +29,7 @@ TRANSLATED = ["de", "es", "it"]
 EN_COPIES = ["br", "fr", "hi", "jp", "ko", "ms", "pl", "ru", "tr", "tw", "vi", "zh"]
 ES_COPIES = ["mx"]
 
-ENTRY = re.compile(r'^(\d+)\s+"(.*)"\s*(//.*)?$')
+ENTRY = re.compile(r'^(\d+)\s+"([^"]*)"\s*(//.*)?$')
 TAG = re.compile(r"<[^>]+>|\\n")
 NUMBER = re.compile(r"\d+(?:[.,]\d+)?")
 

@@ -26,7 +26,9 @@ AOE2_Improved_Extended_Tooltips/
 ├── info.json                                    # Mod metadata
 ├── README.md                                    # User-facing documentation
 ├── PROJECT_GUIDE.md                             # This file - AI/developer guide
-├── .gitignore                                   # Excludes original game files
+├── .gitignore                                   # Excludes the two dont-commit-* folders
+├── dont-commit-original-game-files/             # (gitignored, maintainer's PC only) official game strings
+├── dont-commit-techtree-data/                   # (gitignored) aoe2techtree data.json for stat checks
 ├── tools/
 │   ├── validate.py                              # Consistency checker - run before every commit
 │   └── number_exceptions.txt                    # Known wording-only number differences
@@ -286,6 +288,42 @@ Entries should be organized logically with spacing for readability:
 528005 "Another logical grouping"
 ```
 
+## Game Mechanics Notes
+
+Things that are not obvious from the game files but affect the numbers in tooltips:
+
+### Infantry Line of Sight (Tracking)
+
+Every unit with the **Infantry** armor class gets **+2 LoS** from **Tracking**, an invisible technology that is researched automatically and for free when reaching the Feudal Age. The mod's LoS values for infantry therefore already include this +2:
+
+- Units available from the Feudal Age onward show the final value, e.g. Man-at-Arms `LoS: 6` (4 base + 2 Tracking)
+- Units available in the Dark Age show it separately, e.g. Militia `LoS: 4+2`
+
+When updating infantry LoS from patch notes or game data (which list the base value), **add the +2** - and do not "correct" an infantry LoS back down to the base value.
+
+### `*` = civ bonus already applied
+
+When a unit or tech belongs to one civ (unique units, unique techs, civ-specific buildings) and a civ bonus of that civ **always** affects a stat, the tooltip shows the value **with the bonus applied and marked with `*`**. Examples:
+
+- Janissary `Time: 16.8s*` (Turkish gunpowder units created faster), Jaguar Warrior `Time: 10.4s*` (Aztec military units created faster)
+- Woad Raider speed `1.35*` (Celtic infantry speed), Kipchak speed `1.54*` (Cuman mounted speed)
+- Longbowman `LoS: 8*` (Briton archer bonus), Grenadier `LoS: 9*` (Jurchen team bonus), Warrior Priest `LoS: 7*` (3 base + 2 Tracking + 2 Armenian infantry bonus)
+- Paper Money `Time: 45s*` (60s base, shortened by the Vietnamese free Conscription)
+
+So a value that differs from the game data **and** has a `*` is intentional. If you add or update such a value, keep the `*` - and add one wherever a civ bonus is baked in but the `*` is missing. Infantry Tracking (+2 LoS) is universal, so it does **not** get a `*`.
+
+### Attack delay formulas
+
+The game does not show attack delays, so they are calculated from the unit's graphics data and **rounded up** to 2 decimals:
+
+- **Melee attack delay** = attack animation duration ÷ 2. Example: Scout Cavalry line / Steppe Lancer 1.5 ÷ 2 = 0.75; Ghulam, Kamayuk 1 ÷ 2 = 0.5; Fire Lancer 0.625 → 0.63
+- **Ranged attack delay** = animation duration × frame delay ÷ frames per angle. Example: Scorpion 0.8 × 12 ÷ 60 = 0.16; Heavy Scorpion 0.8 × 6 ÷ 30 = 0.16; Hearth Troop javelin 1.8 × 23 ÷ 45 = 0.92
+- Units with both a melee and a ranged attack (secondary attack "attack B" in the data) show both: `Melee Attack Delay: X, Ranged Attack Delay: Y` (Jomsviking, Hearth Troop, Fire Lancer)
+
+### Reference data
+
+`dont-commit-techtree-data/data.json` (gitignored) is a copy of the community data from [SiegeEngineers/aoe2techtree](https://github.com/SiegeEngineers/aoe2techtree) (`data/data.json`). It can be used to **check** base unit stats (train time, LoS, speed, reload, accuracy, attack bonuses, armor classes) - **not** as a writing format. Each unit's tooltip ID is its `LanguageNameId` + 21000 (e.g. Archer 5083 → 26083). Known gaps in that data: melee attack delays are listed as 0, scout-line LoS lacks the automatic age-up bonus, and civ bonuses are not applied.
+
 ## Special Considerations
 
 ### Pompeii Mode
@@ -299,11 +337,15 @@ Update this file separately when needed, but it's not part of the standard sync 
 The `.gitignore` file excludes:
 ```
 dont-commit-original-game-files/
+dont-commit-techtree-data/
+__pycache__/
 ```
 
-**Important:** This folder with original game files only exists on the project maintainer's (harooooo's) PC. It contains reference files from the official Age of Empires 2: DE installation for translation verification purposes, but these files should never be committed to the repository due to copyright/licensing restrictions.
+**Important:** The folder with original game files only exists on the project maintainer's (harooooo's) PC. It contains reference files from the official Age of Empires 2: DE installation for translation verification purposes, but these files should never be committed to the repository due to copyright/licensing restrictions.
 
 If you need access to official game translations for verification and don't have these files, contact harooooo for assistance.
+
+`dont-commit-techtree-data/` holds a downloaded copy of the community aoe2techtree `data.json` (see "Reference data" above). Re-download it after a game patch from `https://raw.githubusercontent.com/SiegeEngineers/aoe2techtree/master/data/data.json`.
 
 ## Troubleshooting
 
@@ -365,5 +407,7 @@ When working on this project:
 6. **Position tags correctly** (`<GREY><DEFAULT>` before conditional/special text)
 7. **Run `python tools/validate.py --sync` and make sure it prints `OK`** before committing - never silence an error by adding an exception unless the difference is pure wording
 8. **Only commit and push when the maintainer asks you to**, and report what you changed per language
+9. **Infantry LoS includes +2 from Tracking** (free automatic Feudal Age tech) - see "Game Mechanics Notes"
+10. **`*` marks a value with a civ bonus always applied** - keep it, and add it where it's missing
 
 This mod requires careful attention to multi-language consistency and adherence to official Age of Empires 2: DE terminology for the best user experience.

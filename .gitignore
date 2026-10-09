@@ -3,3 +3,6 @@ dont-commit-original-game-files/
 
 # Python cache
 __pycache__/
+
+# Community unit data from github.com/SiegeEngineers/aoe2techtree (data/data.json) - reference only
+dont-commit-techtree-data/

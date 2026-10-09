@@ -15,3 +15,5 @@ de 26594 EN:1 TR:
 de 26595 EN:1 TR:
 # "2x wood cost" written as "das Doppelte an Holz"
 de 4927 EN:2 TR:
+# "2x wood cost" written as "el doble de madera"
+es 4927 EN:2 TR:
