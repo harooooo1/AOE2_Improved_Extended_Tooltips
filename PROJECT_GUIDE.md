@@ -318,6 +318,17 @@ Every unit with the **Infantry** armor class gets **+2 LoS** from **Tracking**, 
 
 When updating infantry LoS from patch notes or game data (which list the base value), **add the +2** - and do not "correct" an infantry LoS back down to the base value.
 
+### Monk conversion time ("monk seconds")
+
+Conversions are checked in ticks: **1 "monk second" = 1.25 real seconds** (a conversion attempt every 1.25s). All conversion time values in the mod are written in **real seconds**, so they are multiples of 1.25:
+
+- Land units 6.25–11.25s = 5–9 monk seconds
+- Teuton team bonus "+3.75s/+1.25s min/max" = +3 / +1 monk seconds
+- Inquisition "-1.25s min/max for units, -6.25s for buildings" = -1 / -5 monk seconds
+- First Crusade "+5s min/max" = +4 monk seconds
+
+When a source gives conversion changes in monk seconds (or ticks), multiply by 1.25 before writing them into a tooltip.
+
 ### Range and LoS are always stated separately
 
 Range and LoS often change together, but **not always**, so a tooltip never relies on "range implies LoS":
