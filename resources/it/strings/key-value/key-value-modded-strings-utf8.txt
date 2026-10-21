@@ -567,7 +567,7 @@
 
 28403 "Sviluppa <b>Rifornimenti<b> (<cost>, Tempo: 20s)\nLa linea della milizia costa -15 cibo."
 28210 "Sviluppa <b>Scudieri<b> (<cost>, Tempo: 40s)\nLe unità di fanteria si muovono il 10% più velocemente."
-28450 "Sviluppa <b>Farsetti d'arme<b> (<cost>, Tempo: 25s)\nLinea della milizia e fanteria d'assalto (eccetto aquile) +1 corazza per armi da lancio."
+28450 "Sviluppa <b>Farsetti d'arme<b> (<cost>, Tempo: 25s)\nLinea della milizia, lancieri da fuoco e Guardie Variaghe +1 corazza per armi da lancio."
 28258 "Sviluppa <b>Incendio doloso<b> (<cost>, Tempo: 25s)\nLe unità di fanteria +2 attacco contro costruzioni standard."
 
 28411 "Sviluppa <b>Anello da pollice<b> (<cost>, Tempo: 45s)\nArcieri, arcieri a cavallo, fanteria leggera ottengono il 100% di precisione contro bersagli fermi.\nTutte le unità di arcieri e arcieri a cavallo sparano il 18% più velocemente eccetto: Chu Ko Nu 25%; arciere a cavallo, carro da guerra 11%; fromboliere 0%"

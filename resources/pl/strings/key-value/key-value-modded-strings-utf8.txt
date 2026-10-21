@@ -567,7 +567,7 @@
 
 28403 "Research <b>Supplies<b> (<cost>, Time: 20s)\nMilitia-line units cost -15 food."
 28210 "Research <b>Squires<b> (<cost>, Time: 40s)\nInfantry units move 10% faster."
-28450 "Research <b>Gambesons<b> (<cost>, Time: 25s)\nMilitia-line and Shock Infantry units (except Eagles) +1 pierce armor."
+28450 "Research <b>Gambesons<b> (<cost>, Time: 25s)\nMilitia-line, Fire Lancers and Varangian Guards +1 pierce armor."
 28258 "Research <b>Arson<b> (<cost>, Time: 25s)\nInfantry units +2 attack vs Standard Buildings."
 
 28411 "Research <b>Thumb Ring<b> (<cost>, Time: 45s)\nArchers, cavalry archers, skirmishers gain 100% accuracy vs stationary targets.\nAll archer & cavalry archer units fire 18% faster except the following: Chu Ko Nu 25%; Cavalry Archer, War Wagon 11%; Slinger 0%"
